@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700">
+  {% include analytics.html %}
+  {% seo %}
+</head>
+
+<body{% if page.id %} id="{{ page.id }}"{% endif %} class="{{ page.layout }}">
+
+  <div class="full-width olives">
+    <div class="navbar">
+        <div class="container">
+            <a href="/"><img class="logo" src="/assets/img/logomark.png" alt="GitHub and Government" width="269" height="23"></a>
+            <ul>
+              <li><a href="/community/">Who's using GitHub</a></li>
+              <li><a href="https://github.com/government/welcome#readme">Peer Group</a></li>
+              <li><a href="/#contact-a-human">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+    <!-- .full-width here gets closed on support-page.html and home.html layouts -->

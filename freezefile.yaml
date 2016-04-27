@@ -1,0 +1,38 @@
+common:
+
+  database: "sqlite:///github.db"
+  prefix: gov/data/
+  format: json
+
+exports:
+
+  # NETWORK DATA
+
+  # public contributor connections across organizations
+  - query: "SELECT a.organization_id id_1, a.login login_1, a.grouping grouping_1, b.organization_id id_2, b.login login_2, b.grouping grouping_2, count(*) AS count FROM 
+            (SELECT person_id, organization_id, login, name, grouping FROM person_organization_contributor_association JOIN organization ON organization_id=id) a JOIN 
+            (SELECT person_id, organization_id, login, name, grouping FROM person_organization_contributor_association JOIN organization ON organization_id=id) b
+            ON a.person_id=b.person_id
+            WHERE a.organization_id<b.organization_id
+            GROUP BY a.organization_id, b.organization_id
+            ORDER BY count desc"
+    filename: contributor.json
+
+  # public member connections across organizations
+  - query: "SELECT a.organization_id id_1, a.login login_1, a.grouping grouping_1, b.organization_id id_2, b.login login_2, b.grouping grouping_2, count(*) AS count FROM 
+            (SELECT person_id, organization_id, login, name, grouping FROM person_organization_member_association JOIN organization ON organization_id=id) a JOIN 
+            (SELECT person_id, organization_id, login, name, grouping FROM person_organization_member_association JOIN organization ON organization_id=id) b
+            ON a.person_id=b.person_id
+            WHERE a.organization_id<b.organization_id
+            GROUP BY a.organization_id, b.organization_id
+            ORDER BY count desc"
+    filename: member.json
+
+  # forking connections among government organizations
+  - query: "SELECT b.login forked_by, b.grouping forked_by_grouping, c.login forked_from, c.grouping forked_from_grouping, COUNT(*) count FROM 
+            (SELECT organization_id,  source_owner_id, name FROM repository WHERE fork=1 AND source_government=1) a
+            JOIN organization b ON a.organization_id=b.id
+            JOIN organization c ON a.source_owner_id=c.id
+            GROUP BY b.login, c.login
+            ORDER BY count desc"
+    filename: fork_government.json

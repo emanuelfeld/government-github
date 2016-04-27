@@ -1,0 +1,737 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="node_type" type="string" />
+      <attribute id="1" title="grouping" type="string" />
+    </attributes>
+    <nodes>
+      <node id="ogpl" label="ogpl">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="International" />
+        </attvalues>
+      </node>
+      <node id="decc" label="decc">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="GSA" label="GSA">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="nationalparkservice" label="nationalparkservice">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="usagov" label="usagov">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="HHSIDEAlab" label="HHSIDEAlab">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="etalab" label="etalab">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="France" />
+        </attvalues>
+      </node>
+      <node id="eregs" label="eregs">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="UKHomeOffice" label="UKHomeOffice">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="alv-ch" label="alv-ch">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Switzerland" />
+        </attvalues>
+      </node>
+      <node id="CMSgov" label="CMSgov">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="MetOfficeSpaceApps" label="MetOfficeSpaceApps">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="USGS-R" label="USGS-R">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="usinterior" label="usinterior">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="azgs" label="azgs">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. States" />
+        </attvalues>
+      </node>
+      <node id="ioos" label="ioos">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="libris" label="libris">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Sweden" />
+        </attvalues>
+      </node>
+      <node id="CommerceDataService" label="CommerceDataService">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="CityofOttawa" label="CityofOttawa">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Canada" />
+        </attvalues>
+      </node>
+      <node id="arcticlcc" label="arcticlcc">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="usgs" label="usgs">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="interlegis" label="interlegis">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="USFWS" label="USFWS">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="ministryofjustice" label="ministryofjustice">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="government-services" label="government-services">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="usds" label="usds">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="plonegovbr" label="plonegovbr">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="Innovation-Toolkit" label="Innovation-Toolkit">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="CityOfPhiladelphia" label="CityOfPhiladelphia">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="datagovuk" label="datagovuk">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="Honolulu" label="Honolulu">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="open-eid" label="open-eid">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Estonia" />
+        </attvalues>
+      </node>
+      <node id="gds-operations" label="gds-operations">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="gds-attic" label="gds-attic">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="twdb" label="twdb">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. States" />
+        </attvalues>
+      </node>
+      <node id="Defra" label="Defra">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="CommerceGov" label="CommerceGov">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="monum" label="monum">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="CIHR" label="CIHR">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Canada" />
+        </attvalues>
+      </node>
+      <node id="ozoneplatform" label="ozoneplatform">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="NeoGeographyToolkit" label="NeoGeographyToolkit">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="BCDevExchange" label="BCDevExchange">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Canada" />
+        </attvalues>
+      </node>
+      <node id="PROCERGS" label="PROCERGS">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="usnationalarchives" label="usnationalarchives">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="CityOfBoston" label="CityOfBoston">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="envris" label="envris">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Australia" />
+        </attvalues>
+      </node>
+      <node id="USCIS" label="USCIS">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="department-of-veterans-affairs" label="department-of-veterans-affairs">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="NASA-DEVELOP" label="NASA-DEVELOP">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="TNRIS" label="TNRIS">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. States" />
+        </attvalues>
+      </node>
+      <node id="alphagov" label="alphagov">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="MetropolitanTransportationCommission" label="MetropolitanTransportationCommission">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Special District" />
+        </attvalues>
+      </node>
+      <node id="City-of-Bloomington" label="City-of-Bloomington">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="demand-driven-open-data" label="demand-driven-open-data">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="presidential-innovation-fellows" label="presidential-innovation-fellows">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="met-office-lab" label="met-office-lab">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="bcgov" label="bcgov">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Canada" />
+        </attvalues>
+      </node>
+      <node id="peacecorps" label="peacecorps">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="cambridgegis" label="cambridgegis">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="18F" label="18F">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="CSB-IG" label="CSB-IG">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Mexico" />
+        </attvalues>
+      </node>
+      <node id="wet-boew" label="wet-boew">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Canada" />
+        </attvalues>
+      </node>
+      <node id="project-open-data" label="project-open-data">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="sgmap" label="sgmap">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="France" />
+        </attvalues>
+      </node>
+      <node id="WhiteHouse" label="WhiteHouse">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="visionworkbench" label="visionworkbench">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="ngds" label="ngds">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="blue-button" label="blue-button">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="opengovplatform" label="opengovplatform">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="cambridgedata" label="cambridgedata">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="USGS-CIDA" label="USGS-CIDA">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="gabinetedigital" label="gabinetedigital">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="cfpb" label="cfpb">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="USDepartmentofLabor" label="USDepartmentofLabor">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="BFELoB" label="BFELoB">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="rinfo" label="rinfo">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Sweden" />
+        </attvalues>
+      </node>
+      <node id="DFID" label="DFID">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="datagovau" label="datagovau">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Australia" />
+        </attvalues>
+      </node>
+      <node id="ozone-development" label="ozone-development">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="e-gov" label="e-gov">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Estonia" />
+        </attvalues>
+      </node>
+      <node id="AusDTO" label="AusDTO">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Australia" />
+        </attvalues>
+      </node>
+      <node id="LandRegistry-Ops" label="LandRegistry-Ops">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="sfcta" label="sfcta">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. County" />
+        </attvalues>
+      </node>
+      <node id="open-data" label="open-data">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Canada" />
+        </attvalues>
+      </node>
+      <node id="ombegov" label="ombegov">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="uscensusbureau" label="uscensusbureau">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="BEACmodel" label="BEACmodel">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="alv-ch-ansible-roles" label="alv-ch-ansible-roles">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Switzerland" />
+        </attvalues>
+      </node>
+      <node id="DDT-INMEGEN" label="DDT-INMEGEN">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Mexico" />
+        </attvalues>
+      </node>
+      <node id="LandRegistry" label="LandRegistry">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="ca-canada" label="ca-canada">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Canada" />
+        </attvalues>
+      </node>
+      <node id="HHS" label="HHS">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="Kungbib" label="Kungbib">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Sweden" />
+        </attvalues>
+      </node>
+      <node id="ga-m3dv" label="ga-m3dv">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Australia" />
+        </attvalues>
+      </node>
+      <node id="GeoscienceAustralia" label="GeoscienceAustralia">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Australia" />
+        </attvalues>
+      </node>
+      <node id="nasa" label="nasa">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="ogpl" target="open-data" weight="1" />
+      <edge id="1" source="ogpl" target="wet-boew" weight="1" />
+      <edge id="2" source="decc" target="BEACmodel" weight="1" />
+      <edge id="3" source="GSA" target="USCIS" weight="2" />
+      <edge id="4" source="GSA" target="18F" weight="16" />
+      <edge id="5" source="GSA" target="USDepartmentofLabor" weight="1" />
+      <edge id="6" source="GSA" target="opengovplatform" weight="1" />
+      <edge id="7" source="GSA" target="usinterior" weight="1" />
+      <edge id="8" source="GSA" target="City-of-Bloomington" weight="1" />
+      <edge id="9" source="GSA" target="government-services" weight="1" />
+      <edge id="10" source="GSA" target="CommerceDataService" weight="1" />
+      <edge id="11" source="GSA" target="presidential-innovation-fellows" weight="5" />
+      <edge id="12" source="GSA" target="CMSgov" weight="1" />
+      <edge id="13" source="GSA" target="project-open-data" weight="3" />
+      <edge id="14" source="GSA" target="usagov" weight="1" />
+      <edge id="15" source="GSA" target="department-of-veterans-affairs" weight="1" />
+      <edge id="16" source="GSA" target="usds" weight="5" />
+      <edge id="17" source="GSA" target="WhiteHouse" weight="3" />
+      <edge id="18" source="GSA" target="ombegov" weight="2" />
+      <edge id="19" source="GSA" target="eregs" weight="1" />
+      <edge id="20" source="nationalparkservice" target="usinterior" weight="1" />
+      <edge id="21" source="HHSIDEAlab" target="HHS" weight="1" />
+      <edge id="22" source="HHSIDEAlab" target="demand-driven-open-data" weight="1" />
+      <edge id="23" source="HHSIDEAlab" target="presidential-innovation-fellows" weight="1" />
+      <edge id="24" source="HHSIDEAlab" target="blue-button" weight="1" />
+      <edge id="25" source="HHSIDEAlab" target="usds" weight="1" />
+      <edge id="26" source="etalab" target="sgmap" weight="1" />
+      <edge id="27" source="eregs" target="18F" weight="5" />
+      <edge id="28" source="UKHomeOffice" target="Defra" weight="1" />
+      <edge id="29" source="UKHomeOffice" target="alphagov" weight="1" />
+      <edge id="30" source="alv-ch" target="alv-ch-ansible-roles" weight="1" />
+      <edge id="31" source="CMSgov" target="blue-button" weight="1" />
+      <edge id="32" source="CMSgov" target="18F" weight="3" />
+      <edge id="33" source="CMSgov" target="USDepartmentofLabor" weight="1" />
+      <edge id="34" source="CMSgov" target="USCIS" weight="1" />
+      <edge id="35" source="CMSgov" target="presidential-innovation-fellows" weight="2" />
+      <edge id="36" source="CMSgov" target="project-open-data" weight="1" />
+      <edge id="37" source="CMSgov" target="department-of-veterans-affairs" weight="1" />
+      <edge id="38" source="CMSgov" target="usds" weight="2" />
+      <edge id="39" source="CMSgov" target="WhiteHouse" weight="2" />
+      <edge id="40" source="CMSgov" target="ombegov" weight="2" />
+      <edge id="41" source="MetOfficeSpaceApps" target="met-office-lab" weight="1" />
+      <edge id="42" source="USGS-R" target="USGS-CIDA" weight="4" />
+      <edge id="43" source="USGS-R" target="usgs" weight="6" />
+      <edge id="44" source="usinterior" target="presidential-innovation-fellows" weight="1" />
+      <edge id="45" source="usinterior" target="18F" weight="2" />
+      <edge id="46" source="azgs" target="ngds" weight="1" />
+      <edge id="47" source="ioos" target="usgs" weight="1" />
+      <edge id="48" source="libris" target="Kungbib" weight="3" />
+      <edge id="49" source="libris" target="rinfo" weight="1" />
+      <edge id="50" source="CommerceDataService" target="18F" weight="1" />
+      <edge id="51" source="CommerceDataService" target="USDepartmentofLabor" weight="1" />
+      <edge id="52" source="CommerceDataService" target="uscensusbureau" weight="1" />
+      <edge id="53" source="CommerceDataService" target="CommerceGov" weight="1" />
+      <edge id="54" source="CommerceDataService" target="presidential-innovation-fellows" weight="1" />
+      <edge id="55" source="CommerceDataService" target="usds" weight="1" />
+      <edge id="56" source="CityofOttawa" target="open-data" weight="1" />
+      <edge id="57" source="CityofOttawa" target="bcgov" weight="1" />
+      <edge id="58" source="arcticlcc" target="USFWS" weight="1" />
+      <edge id="59" source="usgs" target="USGS-CIDA" weight="7" />
+      <edge id="60" source="interlegis" target="plonegovbr" weight="2" />
+      <edge id="61" source="ministryofjustice" target="gds-operations" weight="1" />
+      <edge id="62" source="ministryofjustice" target="gds-attic" weight="1" />
+      <edge id="63" source="ministryofjustice" target="alphagov" weight="1" />
+      <edge id="64" source="government-services" target="18F" weight="1" />
+      <edge id="65" source="usds" target="blue-button" weight="3" />
+      <edge id="66" source="usds" target="18F" weight="14" />
+      <edge id="67" source="usds" target="USDepartmentofLabor" weight="1" />
+      <edge id="68" source="usds" target="usnationalarchives" weight="1" />
+      <edge id="69" source="usds" target="CommerceGov" weight="1" />
+      <edge id="70" source="usds" target="USCIS" weight="3" />
+      <edge id="71" source="usds" target="presidential-innovation-fellows" weight="9" />
+      <edge id="72" source="usds" target="project-open-data" weight="2" />
+      <edge id="73" source="usds" target="department-of-veterans-affairs" weight="8" />
+      <edge id="74" source="usds" target="uscensusbureau" weight="1" />
+      <edge id="75" source="usds" target="WhiteHouse" weight="11" />
+      <edge id="76" source="usds" target="ombegov" weight="1" />
+      <edge id="77" source="Innovation-Toolkit" target="presidential-innovation-fellows" weight="2" />
+      <edge id="78" source="CityOfPhiladelphia" target="18F" weight="1" />
+      <edge id="79" source="datagovuk" target="alphagov" weight="1" />
+      <edge id="80" source="Honolulu" target="monum" weight="1" />
+      <edge id="81" source="open-eid" target="e-gov" weight="1" />
+      <edge id="82" source="gds-operations" target="gds-attic" weight="4" />
+      <edge id="83" source="gds-operations" target="alphagov" weight="8" />
+      <edge id="84" source="gds-attic" target="alphagov" weight="4" />
+      <edge id="85" source="gds-attic" target="DFID" weight="1" />
+      <edge id="86" source="twdb" target="TNRIS" weight="1" />
+      <edge id="87" source="CommerceGov" target="18F" weight="1" />
+      <edge id="88" source="CommerceGov" target="USDepartmentofLabor" weight="1" />
+      <edge id="89" source="CommerceGov" target="uscensusbureau" weight="1" />
+      <edge id="90" source="CommerceGov" target="presidential-innovation-fellows" weight="1" />
+      <edge id="91" source="monum" target="CityOfBoston" weight="3" />
+      <edge id="92" source="CIHR" target="wet-boew" weight="1" />
+      <edge id="93" source="ozoneplatform" target="ozone-development" weight="1" />
+      <edge id="94" source="NeoGeographyToolkit" target="visionworkbench" weight="3" />
+      <edge id="95" source="BCDevExchange" target="bcgov" weight="1" />
+      <edge id="96" source="PROCERGS" target="gabinetedigital" weight="1" />
+      <edge id="97" source="usnationalarchives" target="presidential-innovation-fellows" weight="1" />
+      <edge id="98" source="usnationalarchives" target="18F" weight="1" />
+      <edge id="99" source="envris" target="AusDTO" weight="1" />
+      <edge id="100" source="envris" target="datagovau" weight="1" />
+      <edge id="101" source="USCIS" target="18F" weight="4" />
+      <edge id="102" source="USCIS" target="presidential-innovation-fellows" weight="2" />
+      <edge id="103" source="USCIS" target="project-open-data" weight="1" />
+      <edge id="104" source="USCIS" target="department-of-veterans-affairs" weight="1" />
+      <edge id="105" source="USCIS" target="ombegov" weight="1" />
+      <edge id="106" source="department-of-veterans-affairs" target="blue-button" weight="1" />
+      <edge id="107" source="department-of-veterans-affairs" target="18F" weight="5" />
+      <edge id="108" source="department-of-veterans-affairs" target="uscensusbureau" weight="1" />
+      <edge id="109" source="department-of-veterans-affairs" target="presidential-innovation-fellows" weight="4" />
+      <edge id="110" source="department-of-veterans-affairs" target="project-open-data" weight="1" />
+      <edge id="111" source="department-of-veterans-affairs" target="WhiteHouse" weight="5" />
+      <edge id="112" source="NASA-DEVELOP" target="nasa" weight="2" />
+      <edge id="113" source="MetropolitanTransportationCommission" target="sfcta" weight="1" />
+      <edge id="114" source="City-of-Bloomington" target="presidential-innovation-fellows" weight="1" />
+      <edge id="115" source="demand-driven-open-data" target="HHS" weight="1" />
+      <edge id="116" source="presidential-innovation-fellows" target="blue-button" weight="5" />
+      <edge id="117" source="presidential-innovation-fellows" target="18F" weight="21" />
+      <edge id="118" source="presidential-innovation-fellows" target="USDepartmentofLabor" weight="1" />
+      <edge id="119" source="presidential-innovation-fellows" target="uscensusbureau" weight="2" />
+      <edge id="120" source="presidential-innovation-fellows" target="project-open-data" weight="1" />
+      <edge id="121" source="presidential-innovation-fellows" target="WhiteHouse" weight="2" />
+      <edge id="122" source="presidential-innovation-fellows" target="ombegov" weight="1" />
+      <edge id="123" source="bcgov" target="open-data" weight="1" />
+      <edge id="124" source="peacecorps" target="WhiteHouse" weight="1" />
+      <edge id="125" source="cambridgegis" target="cambridgedata" weight="1" />
+      <edge id="126" source="18F" target="USDepartmentofLabor" weight="2" />
+      <edge id="127" source="18F" target="uscensusbureau" weight="2" />
+      <edge id="128" source="18F" target="blue-button" weight="1" />
+      <edge id="129" source="18F" target="cfpb" weight="5" />
+      <edge id="130" source="18F" target="project-open-data" weight="2" />
+      <edge id="131" source="18F" target="WhiteHouse" weight="7" />
+      <edge id="132" source="18F" target="ombegov" weight="3" />
+      <edge id="133" source="CSB-IG" target="DDT-INMEGEN" weight="1" />
+      <edge id="134" source="wet-boew" target="open-data" weight="2" />
+      <edge id="135" source="wet-boew" target="ca-canada" weight="1" />
+      <edge id="136" source="project-open-data" target="blue-button" weight="1" />
+      <edge id="137" source="project-open-data" target="WhiteHouse" weight="2" />
+      <edge id="138" source="WhiteHouse" target="blue-button" weight="1" />
+      <edge id="139" source="WhiteHouse" target="BFELoB" weight="1" />
+      <edge id="140" source="WhiteHouse" target="USDepartmentofLabor" weight="1" />
+      <edge id="141" source="WhiteHouse" target="ombegov" weight="2" />
+      <edge id="142" source="USDepartmentofLabor" target="uscensusbureau" weight="1" />
+      <edge id="143" source="USDepartmentofLabor" target="ombegov" weight="1" />
+      <edge id="144" source="rinfo" target="Kungbib" weight="1" />
+      <edge id="145" source="datagovau" target="AusDTO" weight="1" />
+      <edge id="146" source="LandRegistry-Ops" target="LandRegistry" weight="2" />
+      <edge id="147" source="ga-m3dv" target="GeoscienceAustralia" weight="1" />
+    </edges>
+  </graph>
+</gexf>

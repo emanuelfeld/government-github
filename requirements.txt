@@ -1,0 +1,4 @@
+networkx==1.10
+PyGithub==1.26.0
+SQLAlchemy==1.0.9
+dataset==0.6.4

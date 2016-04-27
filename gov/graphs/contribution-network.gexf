@@ -1,0 +1,2945 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="node_type" type="string" />
+      <attribute id="1" title="grouping" type="string" />
+    </attributes>
+    <nodes>
+      <node id="agrc-widgets" label="agrc-widgets">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. States" />
+        </attvalues>
+      </node>
+      <node id="communitiesuk" label="communitiesuk">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="simp" label="simp">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Military and Intelligence" />
+        </attvalues>
+      </node>
+      <node id="WSDOT" label="WSDOT">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. States" />
+        </attvalues>
+      </node>
+      <node id="srnsw" label="srnsw">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Australia" />
+        </attvalues>
+      </node>
+      <node id="guidance-guarantee-programme" label="guidance-guarantee-programme">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="GreatSmokyMountainsNationalPark" label="GreatSmokyMountainsNationalPark">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="adlnet" label="adlnet">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="VTrans" label="VTrans">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. States" />
+        </attvalues>
+      </node>
+      <node id="decc" label="decc">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="GSA" label="GSA">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="NOAA-GFDL" label="NOAA-GFDL">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="SLUGIS" label="SLUGIS">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. County" />
+        </attvalues>
+      </node>
+      <node id="nationalparkservice" label="nationalparkservice">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="usagov" label="usagov">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="opendata-ee" label="opendata-ee">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Estonia" />
+        </attvalues>
+      </node>
+      <node id="openprocurement" label="openprocurement">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Ukraine" />
+        </attvalues>
+      </node>
+      <node id="RDOQ" label="RDOQ">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Canada" />
+        </attvalues>
+      </node>
+      <node id="UKForeignOffice" label="UKForeignOffice">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="cislgov" label="cislgov">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="eregs" label="eregs">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="kinnisvara" label="kinnisvara">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Estonia" />
+        </attvalues>
+      </node>
+      <node id="CanaimaGNULinux" label="CanaimaGNULinux">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Venezuela" />
+        </attvalues>
+      </node>
+      <node id="UKHomeOffice" label="UKHomeOffice">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="alv-ch" label="alv-ch">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Switzerland" />
+        </attvalues>
+      </node>
+      <node id="NMB-Dev" label="NMB-Dev">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="USGCRP" label="USGCRP">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="CMSgov" label="CMSgov">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="GuildfordBC" label="GuildfordBC">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Councils" />
+        </attvalues>
+      </node>
+      <node id="argob" label="argob">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Argentina" />
+        </attvalues>
+      </node>
+      <node id="AyuntamientoMadrid" label="AyuntamientoMadrid">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Spain" />
+        </attvalues>
+      </node>
+      <node id="MetOfficeSpaceApps" label="MetOfficeSpaceApps">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="USGS-R" label="USGS-R">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="jules-lsm" label="jules-lsm">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="State-of-Arizona" label="State-of-Arizona">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. States" />
+        </attvalues>
+      </node>
+      <node id="CityOfNewYork" label="CityOfNewYork">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="dvla" label="dvla">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="BostonRedevelop" label="BostonRedevelop">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="CA-CST-SII" label="CA-CST-SII">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="usinterior" label="usinterior">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="azgs" label="azgs">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. States" />
+        </attvalues>
+      </node>
+      <node id="nationalarchives" label="nationalarchives">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="City-of-Helsinki" label="City-of-Helsinki">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Finland" />
+        </attvalues>
+      </node>
+      <node id="ioos" label="ioos">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="libris" label="libris">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Sweden" />
+        </attvalues>
+      </node>
+      <node id="CommerceDataService" label="CommerceDataService">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="CityofOttawa" label="CityofOttawa">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Canada" />
+        </attvalues>
+      </node>
+      <node id="USAID" label="USAID">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="state-hiu" label="state-hiu">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="gemeentemuseum" label="gemeentemuseum">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="The Netherlands" />
+        </attvalues>
+      </node>
+      <node id="governmentbg" label="governmentbg">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Bulgaria" />
+        </attvalues>
+      </node>
+      <node id="JNCC-UK" label="JNCC-UK">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="usgs" label="usgs">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="USFWS" label="USFWS">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="interlegis" label="interlegis">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="opengovplatform" label="opengovplatform">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="gsi-cyberjapan" label="gsi-cyberjapan">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Japan" />
+        </attvalues>
+      </node>
+      <node id="IQuOD" label="IQuOD">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="USGS-OWI" label="USGS-OWI">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="BristolCityCouncil" label="BristolCityCouncil">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Councils" />
+        </attvalues>
+      </node>
+      <node id="gbv" label="gbv">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Germany" />
+        </attvalues>
+      </node>
+      <node id="Lichfield-District-Council" label="Lichfield-District-Council">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Councils" />
+        </attvalues>
+      </node>
+      <node id="missioncommand" label="missioncommand">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="UKTradeInvestment" label="UKTradeInvestment">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="MKM-ITAO" label="MKM-ITAO">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Estonia" />
+        </attvalues>
+      </node>
+      <node id="ministryofjustice" label="ministryofjustice">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="FDA" label="FDA">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="usbr" label="usbr">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="gcba" label="gcba">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Argentina" />
+        </attvalues>
+      </node>
+      <node id="IIP-Design" label="IIP-Design">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="parksandwildlife" label="parksandwildlife">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Australia" />
+        </attvalues>
+      </node>
+      <node id="TBS-EACPD" label="TBS-EACPD">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Canada" />
+        </attvalues>
+      </node>
+      <node id="NASA-DEVELOP" label="NASA-DEVELOP">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="datal-org" label="datal-org">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Chile" />
+        </attvalues>
+      </node>
+      <node id="LibraryOfCongress" label="LibraryOfCongress">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="plonegovbr" label="plonegovbr">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="City-of-Raleigh-Public-Utilities" label="City-of-Raleigh-Public-Utilities">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="commonwealth-of-puerto-rico" label="commonwealth-of-puerto-rico">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Special District" />
+        </attvalues>
+      </node>
+      <node id="USGS-CMG" label="USGS-CMG">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="SacCounty" label="SacCounty">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. County" />
+        </attvalues>
+      </node>
+      <node id="etalab" label="etalab">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="France" />
+        </attvalues>
+      </node>
+      <node id="CityOfPhiladelphia" label="CityOfPhiladelphia">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="nasa-gibs" label="nasa-gibs">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="lobid" label="lobid">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Germany" />
+        </attvalues>
+      </node>
+      <node id="SJCGIS" label="SJCGIS">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. County" />
+        </attvalues>
+      </node>
+      <node id="SelectUSA" label="SelectUSA">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="west-berkshire-council" label="west-berkshire-council">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Councils" />
+        </attvalues>
+      </node>
+      <node id="ProBonoDC" label="ProBonoDC">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="lfucg" label="lfucg">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="datagovuk" label="datagovuk">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="Senescyt" label="Senescyt">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Ecuador" />
+        </attvalues>
+      </node>
+      <node id="HHSIDEAlab" label="HHSIDEAlab">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="MN-Script-Team" label="MN-Script-Team">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. States" />
+        </attvalues>
+      </node>
+      <node id="HistoryAtState" label="HistoryAtState">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="Honolulu" label="Honolulu">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="open-eid" label="open-eid">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Estonia" />
+        </attvalues>
+      </node>
+      <node id="ONSdigital" label="ONSdigital">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="gds-operations" label="gds-operations">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="gds-attic" label="gds-attic">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="Innovation-Toolkit" label="Innovation-Toolkit">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="mcc-gov" label="mcc-gov">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="BEACmodel" label="BEACmodel">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="USDA" label="USDA">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="CA-CST-Library" label="CA-CST-Library">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="twdb" label="twdb">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. States" />
+        </attvalues>
+      </node>
+      <node id="Defra" label="Defra">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="CommerceGov" label="CommerceGov">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="ozoneplatform" label="ozoneplatform">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="monum" label="monum">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="noaa-nws-cpc" label="noaa-nws-cpc">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="erdc-cm" label="erdc-cm">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="NeoGeographyToolkit" label="NeoGeographyToolkit">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="BCDevExchange" label="BCDevExchange">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Canada" />
+        </attvalues>
+      </node>
+      <node id="pr-snas" label="pr-snas">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="InternationalTradeAdministration" label="InternationalTradeAdministration">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="lexml" label="lexml">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="prefeiturasp" label="prefeiturasp">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="LambethCouncil" label="LambethCouncil">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Councils" />
+        </attvalues>
+      </node>
+      <node id="idagds" label="idagds">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Singapore" />
+        </attvalues>
+      </node>
+      <node id="labhackercd" label="labhackercd">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="MinELenI" label="MinELenI">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="The Netherlands" />
+        </attvalues>
+      </node>
+      <node id="camaradosdeputadosoficial" label="camaradosdeputadosoficial">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="infra-geo-ouverte" label="infra-geo-ouverte">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Canada" />
+        </attvalues>
+      </node>
+      <node id="petsc" label="petsc">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="PROCERGS" label="PROCERGS">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="INMEGEN" label="INMEGEN">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Mexico" />
+        </attvalues>
+      </node>
+      <node id="usnationalarchives" label="usnationalarchives">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="NYS-ITS" label="NYS-ITS">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. States" />
+        </attvalues>
+      </node>
+      <node id="lgss" label="lgss">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="InsolvencyService" label="InsolvencyService">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="CityOfBoston" label="CityOfBoston">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="envris" label="envris">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Australia" />
+        </attvalues>
+      </node>
+      <node id="ogpl" label="ogpl">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="International" />
+        </attvalues>
+      </node>
+      <node id="DCCouncil" label="DCCouncil">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="BBGInnovate" label="BBGInnovate">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="CityOfVirginiaBeach" label="CityOfVirginiaBeach">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="EnvHack2" label="EnvHack2">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="metomi" label="metomi">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="info-sharing-environment" label="info-sharing-environment">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Military and Intelligence" />
+        </attvalues>
+      </node>
+      <node id="HSLdevcom" label="HSLdevcom">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Finland" />
+        </attvalues>
+      </node>
+      <node id="department-of-veterans-affairs" label="department-of-veterans-affairs">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="usds" label="usds">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="TNRIS" label="TNRIS">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. States" />
+        </attvalues>
+      </node>
+      <node id="alphagov" label="alphagov">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="agrc" label="agrc">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. States" />
+        </attvalues>
+      </node>
+      <node id="cityofchattanooga" label="cityofchattanooga">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="MetropolitanTransportationCommission" label="MetropolitanTransportationCommission">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Special District" />
+        </attvalues>
+      </node>
+      <node id="vilnius" label="vilnius">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Lithuania" />
+        </attvalues>
+      </node>
+      <node id="nycdot" label="nycdot">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="gds-dead" label="gds-dead">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="dadosgovbr" label="dadosgovbr">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="moexmen" label="moexmen">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Singapore" />
+        </attvalues>
+      </node>
+      <node id="CanterburyRegionalCouncil" label="CanterburyRegionalCouncil">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="New Zealand" />
+        </attvalues>
+      </node>
+      <node id="govbr" label="govbr">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="culturagovbr" label="culturagovbr">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="City-of-Bloomington" label="City-of-Bloomington">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="government-services" label="government-services">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="demand-driven-open-data" label="demand-driven-open-data">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="presidential-innovation-fellows" label="presidential-innovation-fellows">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="met-office-lab" label="met-office-lab">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="ca-canada" label="ca-canada">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Canada" />
+        </attvalues>
+      </node>
+      <node id="bcgov" label="bcgov">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Canada" />
+        </attvalues>
+      </node>
+      <node id="CSB-IG" label="CSB-IG">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Mexico" />
+        </attvalues>
+      </node>
+      <node id="cityofaustin" label="cityofaustin">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="cambridgegis" label="cambridgegis">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="Anoka-Script-Team" label="Anoka-Script-Team">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. County" />
+        </attvalues>
+      </node>
+      <node id="govbg" label="govbg">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Bulgaria" />
+        </attvalues>
+      </node>
+      <node id="CORaleigh" label="CORaleigh">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="suscerte" label="suscerte">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Venezuela" />
+        </attvalues>
+      </node>
+      <node id="NESII" label="NESII">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="hmrc" label="hmrc">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="CityofSanFrancisco" label="CityofSanFrancisco">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="GeoCanViz" label="GeoCanViz">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Canada" />
+        </attvalues>
+      </node>
+      <node id="18F" label="18F">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="osgeouk" label="osgeouk">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="SGMAP-AGD" label="SGMAP-AGD">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="France" />
+        </attvalues>
+      </node>
+      <node id="USGS-Astrogeology" label="USGS-Astrogeology">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="peacecorps" label="peacecorps">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="wet-boew" label="wet-boew">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Canada" />
+        </attvalues>
+      </node>
+      <node id="SantaClarita" label="SantaClarita">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="companieshouse" label="companieshouse">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="fedspendingtransparency" label="fedspendingtransparency">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="GOVTNZ" label="GOVTNZ">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="New Zealand" />
+        </attvalues>
+      </node>
+      <node id="VHAINNOVATIONS" label="VHAINNOVATIONS">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="project-open-data" label="project-open-data">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="cleveland-metroparks" label="cleveland-metroparks">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Special District" />
+        </attvalues>
+      </node>
+      <node id="sgmap" label="sgmap">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="France" />
+        </attvalues>
+      </node>
+      <node id="nhanes" label="nhanes">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="WhiteHouse" label="WhiteHouse">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="visionworkbench" label="visionworkbench">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="ngds" label="ngds">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="NYCComptroller" label="NYCComptroller">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="DCgov" label="DCgov">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="blue-button" label="blue-button">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="viesujupirkimutarnyba" label="viesujupirkimutarnyba">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Lithuania" />
+        </attvalues>
+      </node>
+      <node id="USDepartmentofLabor" label="USDepartmentofLabor">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="cambridgedata" label="cambridgedata">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="RedhawkSDR" label="RedhawkSDR">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="USGS-CIDA" label="USGS-CIDA">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="gabinetedigital" label="gabinetedigital">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="ngageoint" label="ngageoint">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Military and Intelligence" />
+        </attvalues>
+      </node>
+      <node id="shareandprotect" label="shareandprotect">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Military and Intelligence" />
+        </attvalues>
+      </node>
+      <node id="USEPA" label="USEPA">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="cfpb" label="cfpb">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="LLDD" label="LLDD">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Sweden" />
+        </attvalues>
+      </node>
+      <node id="BFELoB" label="BFELoB">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="rinfo" label="rinfo">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Sweden" />
+        </attvalues>
+      </node>
+      <node id="alv-ch-ansible-roles" label="alv-ch-ansible-roles">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Switzerland" />
+        </attvalues>
+      </node>
+      <node id="ProvincieGroningen" label="ProvincieGroningen">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="The Netherlands" />
+        </attvalues>
+      </node>
+      <node id="communaute-cimi" label="communaute-cimi">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="France" />
+        </attvalues>
+      </node>
+      <node id="JusticaGovBR" label="JusticaGovBR">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="CityofSantaMonica" label="CityofSantaMonica">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="e-gob" label="e-gob">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Chile" />
+        </attvalues>
+      </node>
+      <node id="Project-Interoperability" label="Project-Interoperability">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Military and Intelligence" />
+        </attvalues>
+      </node>
+      <node id="DFID" label="DFID">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="Chicago" label="Chicago">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="FCC" label="FCC">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="Department-for-Work-and-Pensions" label="Department-for-Work-and-Pensions">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="geobolivia" label="geobolivia">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Bolivia" />
+        </attvalues>
+      </node>
+      <node id="DigitalInclusion" label="DigitalInclusion">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="datagovau" label="datagovau">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Australia" />
+        </attvalues>
+      </node>
+      <node id="atlregional" label="atlregional">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Special District" />
+        </attvalues>
+      </node>
+      <node id="NationalSecurityAgency" label="NationalSecurityAgency">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Military and Intelligence" />
+        </attvalues>
+      </node>
+      <node id="ozone-development" label="ozone-development">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="eHawaii" label="eHawaii">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. States" />
+        </attvalues>
+      </node>
+      <node id="uygub" label="uygub">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Uruguay" />
+        </attvalues>
+      </node>
+      <node id="e-gov" label="e-gov">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Estonia" />
+        </attvalues>
+      </node>
+      <node id="sunpy" label="sunpy">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="edinburghcouncil" label="edinburghcouncil">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Councils" />
+        </attvalues>
+      </node>
+      <node id="AusDTO" label="AusDTO">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Australia" />
+        </attvalues>
+      </node>
+      <node id="chhsopendata" label="chhsopendata">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. States" />
+        </attvalues>
+      </node>
+      <node id="VTrans-Rail" label="VTrans-Rail">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. States" />
+        </attvalues>
+      </node>
+      <node id="Geonovum" label="Geonovum">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="The Netherlands" />
+        </attvalues>
+      </node>
+      <node id="NASA-Tournament-Lab" label="NASA-Tournament-Lab">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="LandRegistry-Ops" label="LandRegistry-Ops">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="LocalGovDigital" label="LocalGovDigital">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="sbstusa" label="sbstusa">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="ibamacsr" label="ibamacsr">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="USPTO" label="USPTO">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="sfcta" label="sfcta">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. County" />
+        </attvalues>
+      </node>
+      <node id="USStateDept" label="USStateDept">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="govCMS" label="govCMS">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Australia" />
+        </attvalues>
+      </node>
+      <node id="EnvironmentAgency" label="EnvironmentAgency">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="open-data" label="open-data">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Canada" />
+        </attvalues>
+      </node>
+      <node id="psrc" label="psrc">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Special District" />
+        </attvalues>
+      </node>
+      <node id="digital-preservation" label="digital-preservation">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="NOAA-ORR-ERD" label="NOAA-ORR-ERD">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="ombegov" label="ombegov">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="ny" label="ny">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. States" />
+        </attvalues>
+      </node>
+      <node id="mecpy" label="mecpy">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Paraguay" />
+        </attvalues>
+      </node>
+      <node id="warwickshire" label="warwickshire">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Councils" />
+        </attvalues>
+      </node>
+      <node id="IATI" label="IATI">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="International" />
+        </attvalues>
+      </node>
+      <node id="USG-SCOPE" label="USG-SCOPE">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="uscensusbureau" label="uscensusbureau">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="portofsandiego" label="portofsandiego">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Special District" />
+        </attvalues>
+      </node>
+      <node id="hbz" label="hbz">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Germany" />
+        </attvalues>
+      </node>
+      <node id="OpenGovDC" label="OpenGovDC">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="DDT-INMEGEN" label="DDT-INMEGEN">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Mexico" />
+        </attvalues>
+      </node>
+      <node id="cityofasheville" label="cityofasheville">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. City" />
+        </attvalues>
+      </node>
+      <node id="SENATICS" label="SENATICS">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Paraguay" />
+        </attvalues>
+      </node>
+      <node id="HHSDigitalMediaAPIPlatform" label="HHSDigitalMediaAPIPlatform">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="LandRegistry" label="LandRegistry">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="CityofSurrey" label="CityofSurrey">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Canada" />
+        </attvalues>
+      </node>
+      <node id="nysenate" label="nysenate">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. States" />
+        </attvalues>
+      </node>
+      <node id="HHS" label="HHS">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="dstl" label="dstl">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.K. Central" />
+        </attvalues>
+      </node>
+      <node id="pensandoodireito" label="pensandoodireito">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="govro" label="govro">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Romania" />
+        </attvalues>
+      </node>
+      <node id="DISIC" label="DISIC">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="France" />
+        </attvalues>
+      </node>
+      <node id="Kungbib" label="Kungbib">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Sweden" />
+        </attvalues>
+      </node>
+      <node id="ga-m3dv" label="ga-m3dv">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Australia" />
+        </attvalues>
+      </node>
+      <node id="GovBrasil" label="GovBrasil">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Brazil" />
+        </attvalues>
+      </node>
+      <node id="GeoscienceAustralia" label="GeoscienceAustralia">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Australia" />
+        </attvalues>
+      </node>
+      <node id="virtual-world-framework" label="virtual-world-framework">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="nasa" label="nasa">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+      <node id="adsib" label="adsib">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="Bolivia" />
+        </attvalues>
+      </node>
+      <node id="USGS-WiM" label="USGS-WiM">
+        <attvalues>
+          <attvalue for="0" value="organization" />
+          <attvalue for="1" value="U.S. Federal" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="agrc-widgets" target="sgmap" weight="1" />
+      <edge id="1" source="agrc-widgets" target="nationalparkservice" weight="1" />
+      <edge id="2" source="agrc-widgets" target="agrc" weight="3" />
+      <edge id="3" source="communitiesuk" target="alphagov" weight="1" />
+      <edge id="4" source="communitiesuk" target="LocalGovDigital" weight="1" />
+      <edge id="5" source="simp" target="NationalSecurityAgency" weight="1" />
+      <edge id="6" source="simp" target="kinnisvara" weight="1" />
+      <edge id="7" source="simp" target="CanaimaGNULinux" weight="1" />
+      <edge id="8" source="simp" target="MinELenI" weight="1" />
+      <edge id="9" source="simp" target="nasa" weight="1" />
+      <edge id="10" source="simp" target="commonwealth-of-puerto-rico" weight="1" />
+      <edge id="11" source="simp" target="edinburghcouncil" weight="1" />
+      <edge id="12" source="WSDOT" target="WhiteHouse" weight="2" />
+      <edge id="13" source="srnsw" target="18F" weight="1" />
+      <edge id="14" source="srnsw" target="gcba" weight="1" />
+      <edge id="15" source="srnsw" target="CanaimaGNULinux" weight="1" />
+      <edge id="16" source="srnsw" target="ibamacsr" weight="1" />
+      <edge id="17" source="srnsw" target="AyuntamientoMadrid" weight="1" />
+      <edge id="18" source="srnsw" target="wet-boew" weight="1" />
+      <edge id="19" source="srnsw" target="USGCRP" weight="1" />
+      <edge id="20" source="srnsw" target="Senescyt" weight="1" />
+      <edge id="21" source="srnsw" target="gbv" weight="1" />
+      <edge id="22" source="srnsw" target="cfpb" weight="1" />
+      <edge id="23" source="srnsw" target="CityofOttawa" weight="1" />
+      <edge id="24" source="srnsw" target="PROCERGS" weight="1" />
+      <edge id="25" source="srnsw" target="erdc-cm" weight="1" />
+      <edge id="26" source="srnsw" target="govbr" weight="1" />
+      <edge id="27" source="srnsw" target="peacecorps" weight="1" />
+      <edge id="28" source="srnsw" target="SENATICS" weight="1" />
+      <edge id="29" source="srnsw" target="CityOfPhiladelphia" weight="1" />
+      <edge id="30" source="srnsw" target="ngds" weight="1" />
+      <edge id="31" source="srnsw" target="envris" weight="1" />
+      <edge id="32" source="guidance-guarantee-programme" target="18F" weight="1" />
+      <edge id="33" source="guidance-guarantee-programme" target="gds-operations" weight="1" />
+      <edge id="34" source="guidance-guarantee-programme" target="alphagov" weight="6" />
+      <edge id="35" source="guidance-guarantee-programme" target="DigitalInclusion" weight="1" />
+      <edge id="36" source="guidance-guarantee-programme" target="LandRegistry" weight="1" />
+      <edge id="37" source="GreatSmokyMountainsNationalPark" target="nationalparkservice" weight="1" />
+      <edge id="38" source="adlnet" target="virtual-world-framework" weight="8" />
+      <edge id="39" source="VTrans" target="VTrans-Rail" weight="2" />
+      <edge id="40" source="decc" target="BEACmodel" weight="1" />
+      <edge id="41" source="decc" target="alphagov" weight="1" />
+      <edge id="42" source="GSA" target="FDA" weight="2" />
+      <edge id="43" source="GSA" target="info-sharing-environment" weight="1" />
+      <edge id="44" source="GSA" target="Project-Interoperability" weight="2" />
+      <edge id="45" source="GSA" target="DCCouncil" weight="2" />
+      <edge id="46" source="GSA" target="Chicago" weight="1" />
+      <edge id="47" source="GSA" target="ProBonoDC" weight="1" />
+      <edge id="48" source="GSA" target="datagovau" weight="5" />
+      <edge id="49" source="GSA" target="usagov" weight="2" />
+      <edge id="50" source="GSA" target="department-of-veterans-affairs" weight="9" />
+      <edge id="51" source="GSA" target="usds" weight="6" />
+      <edge id="52" source="GSA" target="alphagov" weight="1" />
+      <edge id="53" source="GSA" target="CityOfPhiladelphia" weight="3" />
+      <edge id="54" source="GSA" target="government-services" weight="1" />
+      <edge id="55" source="GSA" target="Innovation-Toolkit" weight="1" />
+      <edge id="56" source="GSA" target="USG-SCOPE" weight="1" />
+      <edge id="57" source="GSA" target="etalab" weight="1" />
+      <edge id="58" source="GSA" target="eregs" weight="5" />
+      <edge id="59" source="GSA" target="kinnisvara" weight="1" />
+      <edge id="60" source="GSA" target="usnationalarchives" weight="1" />
+      <edge id="61" source="GSA" target="IIP-Design" weight="1" />
+      <edge id="62" source="GSA" target="datagovuk" weight="3" />
+      <edge id="63" source="GSA" target="USStateDept" weight="2" />
+      <edge id="64" source="GSA" target="presidential-innovation-fellows" weight="18" />
+      <edge id="65" source="GSA" target="FCC" weight="3" />
+      <edge id="66" source="GSA" target="HistoryAtState" weight="1" />
+      <edge id="67" source="GSA" target="culturagovbr" weight="1" />
+      <edge id="68" source="GSA" target="bcgov" weight="7" />
+      <edge id="69" source="GSA" target="USGS-Astrogeology" weight="1" />
+      <edge id="70" source="GSA" target="ONSdigital" weight="1" />
+      <edge id="71" source="GSA" target="cambridgegis" weight="1" />
+      <edge id="72" source="GSA" target="openprocurement" weight="1" />
+      <edge id="73" source="GSA" target="ombegov" weight="2" />
+      <edge id="74" source="GSA" target="hmrc" weight="1" />
+      <edge id="75" source="GSA" target="HHS" weight="2" />
+      <edge id="76" source="GSA" target="IATI" weight="1" />
+      <edge id="77" source="GSA" target="18F" weight="45" />
+      <edge id="78" source="GSA" target="USDA" weight="2" />
+      <edge id="79" source="GSA" target="uscensusbureau" weight="4" />
+      <edge id="80" source="GSA" target="OpenGovDC" weight="1" />
+      <edge id="81" source="GSA" target="met-office-lab" weight="1" />
+      <edge id="82" source="GSA" target="CommerceDataService" weight="1" />
+      <edge id="83" source="GSA" target="dstl" weight="1" />
+      <edge id="84" source="GSA" target="project-open-data" weight="20" />
+      <edge id="85" source="GSA" target="BCDevExchange" weight="1" />
+      <edge id="86" source="GSA" target="sgmap" weight="1" />
+      <edge id="87" source="GSA" target="WhiteHouse" weight="10" />
+      <edge id="88" source="GSA" target="InternationalTradeAdministration" weight="3" />
+      <edge id="89" source="GSA" target="ngds" weight="4" />
+      <edge id="90" source="GSA" target="DCgov" weight="4" />
+      <edge id="91" source="GSA" target="blue-button" weight="2" />
+      <edge id="92" source="GSA" target="pensandoodireito" weight="1" />
+      <edge id="93" source="GSA" target="opengovplatform" weight="1" />
+      <edge id="94" source="GSA" target="USDepartmentofLabor" weight="6" />
+      <edge id="95" source="GSA" target="CA-CST-SII" weight="1" />
+      <edge id="96" source="GSA" target="ngageoint" weight="2" />
+      <edge id="97" source="GSA" target="shareandprotect" weight="1" />
+      <edge id="98" source="GSA" target="cfpb" weight="13" />
+      <edge id="99" source="GSA" target="virtual-world-framework" weight="1" />
+      <edge id="100" source="GSA" target="PROCERGS" weight="1" />
+      <edge id="101" source="GSA" target="CMSgov" weight="2" />
+      <edge id="102" source="GSA" target="govbr" weight="1" />
+      <edge id="103" source="GSA" target="erdc-cm" weight="2" />
+      <edge id="104" source="GSA" target="eHawaii" weight="1" />
+      <edge id="105" source="NOAA-GFDL" target="CommerceGov" weight="1" />
+      <edge id="106" source="SLUGIS" target="ngageoint" weight="1" />
+      <edge id="107" source="nationalparkservice" target="18F" weight="1" />
+      <edge id="108" source="nationalparkservice" target="BBGInnovate" weight="1" />
+      <edge id="109" source="nationalparkservice" target="usds" weight="1" />
+      <edge id="110" source="nationalparkservice" target="wet-boew" weight="1" />
+      <edge id="111" source="nationalparkservice" target="ngageoint" weight="7" />
+      <edge id="112" source="nationalparkservice" target="atlregional" weight="3" />
+      <edge id="113" source="nationalparkservice" target="HSLdevcom" weight="2" />
+      <edge id="114" source="nationalparkservice" target="cleveland-metroparks" weight="1" />
+      <edge id="115" source="nationalparkservice" target="sgmap" weight="1" />
+      <edge id="116" source="nationalparkservice" target="agrc" weight="1" />
+      <edge id="117" source="usagov" target="USG-SCOPE" weight="1" />
+      <edge id="118" source="usagov" target="18F" weight="1" />
+      <edge id="119" source="usagov" target="USDA" weight="1" />
+      <edge id="120" source="usagov" target="presidential-innovation-fellows" weight="1" />
+      <edge id="121" source="usagov" target="FCC" weight="1" />
+      <edge id="122" source="usagov" target="project-open-data" weight="2" />
+      <edge id="123" source="usagov" target="WhiteHouse" weight="1" />
+      <edge id="124" source="usagov" target="government-services" weight="1" />
+      <edge id="125" source="opendata-ee" target="project-open-data" weight="1" />
+      <edge id="126" source="opendata-ee" target="MKM-ITAO" weight="1" />
+      <edge id="127" source="opendata-ee" target="kinnisvara" weight="1" />
+      <edge id="128" source="opendata-ee" target="e-gov" weight="1" />
+      <edge id="129" source="openprocurement" target="parksandwildlife" weight="1" />
+      <edge id="130" source="openprocurement" target="City-of-Raleigh-Public-Utilities" weight="1" />
+      <edge id="131" source="openprocurement" target="HSLdevcom" weight="1" />
+      <edge id="132" source="openprocurement" target="department-of-veterans-affairs" weight="1" />
+      <edge id="133" source="openprocurement" target="CityOfPhiladelphia" weight="1" />
+      <edge id="134" source="openprocurement" target="kinnisvara" weight="2" />
+      <edge id="135" source="openprocurement" target="CanterburyRegionalCouncil" weight="1" />
+      <edge id="136" source="openprocurement" target="govbr" weight="1" />
+      <edge id="137" source="openprocurement" target="culturagovbr" weight="1" />
+      <edge id="138" source="openprocurement" target="bcgov" weight="1" />
+      <edge id="139" source="openprocurement" target="uscensusbureau" weight="1" />
+      <edge id="140" source="openprocurement" target="USGS-R" weight="1" />
+      <edge id="141" source="openprocurement" target="hmrc" weight="2" />
+      <edge id="142" source="openprocurement" target="HHS" weight="1" />
+      <edge id="143" source="openprocurement" target="18F" weight="2" />
+      <edge id="144" source="openprocurement" target="USGS-Astrogeology" weight="1" />
+      <edge id="145" source="openprocurement" target="City-of-Helsinki" weight="1" />
+      <edge id="146" source="openprocurement" target="CommerceDataService" weight="1" />
+      <edge id="147" source="openprocurement" target="cityofasheville" weight="1" />
+      <edge id="148" source="openprocurement" target="dstl" weight="1" />
+      <edge id="149" source="openprocurement" target="erdc-cm" weight="1" />
+      <edge id="150" source="openprocurement" target="BCDevExchange" weight="2" />
+      <edge id="151" source="openprocurement" target="sgmap" weight="2" />
+      <edge id="152" source="openprocurement" target="DCgov" weight="2" />
+      <edge id="153" source="openprocurement" target="pensandoodireito" weight="1" />
+      <edge id="154" source="openprocurement" target="interlegis" weight="1" />
+      <edge id="155" source="openprocurement" target="USGS-CIDA" weight="1" />
+      <edge id="156" source="openprocurement" target="ngageoint" weight="2" />
+      <edge id="157" source="openprocurement" target="CORaleigh" weight="1" />
+      <edge id="158" source="openprocurement" target="PROCERGS" weight="1" />
+      <edge id="159" source="RDOQ" target="infra-geo-ouverte" weight="1" />
+      <edge id="160" source="UKForeignOffice" target="DFID" weight="1" />
+      <edge id="161" source="UKForeignOffice" target="EnvHack2" weight="1" />
+      <edge id="162" source="UKForeignOffice" target="UKHomeOffice" weight="1" />
+      <edge id="163" source="UKForeignOffice" target="LandRegistry" weight="1" />
+      <edge id="164" source="UKForeignOffice" target="gds-operations" weight="2" />
+      <edge id="165" source="UKForeignOffice" target="gds-attic" weight="6" />
+      <edge id="166" source="UKForeignOffice" target="alphagov" weight="9" />
+      <edge id="167" source="UKForeignOffice" target="ministryofjustice" weight="2" />
+      <edge id="168" source="UKForeignOffice" target="LandRegistry-Ops" weight="1" />
+      <edge id="169" source="cislgov" target="interlegis" weight="1" />
+      <edge id="170" source="cislgov" target="plonegovbr" weight="1" />
+      <edge id="171" source="eregs" target="DCgov" weight="5" />
+      <edge id="172" source="eregs" target="18F" weight="13" />
+      <edge id="173" source="eregs" target="USDepartmentofLabor" weight="1" />
+      <edge id="174" source="eregs" target="cfpb" weight="21" />
+      <edge id="175" source="eregs" target="presidential-innovation-fellows" weight="1" />
+      <edge id="176" source="eregs" target="project-open-data" weight="1" />
+      <edge id="177" source="eregs" target="bcgov" weight="1" />
+      <edge id="178" source="eregs" target="WhiteHouse" weight="3" />
+      <edge id="179" source="kinnisvara" target="USGS-CIDA" weight="1" />
+      <edge id="180" source="kinnisvara" target="parksandwildlife" weight="1" />
+      <edge id="181" source="kinnisvara" target="City-of-Raleigh-Public-Utilities" weight="1" />
+      <edge id="182" source="kinnisvara" target="commonwealth-of-puerto-rico" weight="1" />
+      <edge id="183" source="kinnisvara" target="HSLdevcom" weight="1" />
+      <edge id="184" source="kinnisvara" target="department-of-veterans-affairs" weight="1" />
+      <edge id="185" source="kinnisvara" target="e-gov" weight="1" />
+      <edge id="186" source="kinnisvara" target="edinburghcouncil" weight="1" />
+      <edge id="187" source="kinnisvara" target="CityOfPhiladelphia" weight="1" />
+      <edge id="188" source="kinnisvara" target="CanaimaGNULinux" weight="1" />
+      <edge id="189" source="kinnisvara" target="CanterburyRegionalCouncil" weight="1" />
+      <edge id="190" source="kinnisvara" target="govbr" weight="1" />
+      <edge id="191" source="kinnisvara" target="culturagovbr" weight="1" />
+      <edge id="192" source="kinnisvara" target="bcgov" weight="1" />
+      <edge id="193" source="kinnisvara" target="uscensusbureau" weight="1" />
+      <edge id="194" source="kinnisvara" target="CORaleigh" weight="1" />
+      <edge id="195" source="kinnisvara" target="hmrc" weight="2" />
+      <edge id="196" source="kinnisvara" target="DCgov" weight="1" />
+      <edge id="197" source="kinnisvara" target="18F" weight="2" />
+      <edge id="198" source="kinnisvara" target="USGS-Astrogeology" weight="1" />
+      <edge id="199" source="kinnisvara" target="City-of-Helsinki" weight="1" />
+      <edge id="200" source="kinnisvara" target="CommerceDataService" weight="1" />
+      <edge id="201" source="kinnisvara" target="cityofasheville" weight="1" />
+      <edge id="202" source="kinnisvara" target="dstl" weight="1" />
+      <edge id="203" source="kinnisvara" target="project-open-data" weight="1" />
+      <edge id="204" source="kinnisvara" target="BCDevExchange" weight="2" />
+      <edge id="205" source="kinnisvara" target="sgmap" weight="2" />
+      <edge id="206" source="kinnisvara" target="HHS" weight="1" />
+      <edge id="207" source="kinnisvara" target="pensandoodireito" weight="1" />
+      <edge id="208" source="kinnisvara" target="interlegis" weight="1" />
+      <edge id="209" source="kinnisvara" target="MinELenI" weight="1" />
+      <edge id="210" source="kinnisvara" target="ngageoint" weight="1" />
+      <edge id="211" source="kinnisvara" target="USGS-R" weight="1" />
+      <edge id="212" source="kinnisvara" target="PROCERGS" weight="1" />
+      <edge id="213" source="kinnisvara" target="erdc-cm" weight="1" />
+      <edge id="214" source="kinnisvara" target="MKM-ITAO" weight="1" />
+      <edge id="215" source="CanaimaGNULinux" target="gcba" weight="1" />
+      <edge id="216" source="CanaimaGNULinux" target="plonegovbr" weight="1" />
+      <edge id="217" source="CanaimaGNULinux" target="commonwealth-of-puerto-rico" weight="1" />
+      <edge id="218" source="CanaimaGNULinux" target="edinburghcouncil" weight="1" />
+      <edge id="219" source="CanaimaGNULinux" target="CityOfPhiladelphia" weight="1" />
+      <edge id="220" source="CanaimaGNULinux" target="govbr" weight="1" />
+      <edge id="221" source="CanaimaGNULinux" target="ibamacsr" weight="1" />
+      <edge id="222" source="CanaimaGNULinux" target="Senescyt" weight="1" />
+      <edge id="223" source="CanaimaGNULinux" target="USGCRP" weight="1" />
+      <edge id="224" source="CanaimaGNULinux" target="peacecorps" weight="1" />
+      <edge id="225" source="CanaimaGNULinux" target="suscerte" weight="2" />
+      <edge id="226" source="CanaimaGNULinux" target="18F" weight="1" />
+      <edge id="227" source="CanaimaGNULinux" target="AyuntamientoMadrid" weight="1" />
+      <edge id="228" source="CanaimaGNULinux" target="wet-boew" weight="1" />
+      <edge id="229" source="CanaimaGNULinux" target="CityofOttawa" weight="1" />
+      <edge id="230" source="CanaimaGNULinux" target="erdc-cm" weight="1" />
+      <edge id="231" source="CanaimaGNULinux" target="ngds" weight="1" />
+      <edge id="232" source="CanaimaGNULinux" target="MinELenI" weight="1" />
+      <edge id="233" source="CanaimaGNULinux" target="gbv" weight="1" />
+      <edge id="234" source="CanaimaGNULinux" target="cfpb" weight="1" />
+      <edge id="235" source="CanaimaGNULinux" target="PROCERGS" weight="1" />
+      <edge id="236" source="CanaimaGNULinux" target="SENATICS" weight="1" />
+      <edge id="237" source="CanaimaGNULinux" target="envris" weight="1" />
+      <edge id="238" source="UKHomeOffice" target="hmrc" weight="2" />
+      <edge id="239" source="UKHomeOffice" target="UKTradeInvestment" weight="1" />
+      <edge id="240" source="UKHomeOffice" target="Department-for-Work-and-Pensions" weight="1" />
+      <edge id="241" source="UKHomeOffice" target="Defra" weight="1" />
+      <edge id="242" source="UKHomeOffice" target="datagovuk" weight="1" />
+      <edge id="243" source="UKHomeOffice" target="gds-dead" weight="1" />
+      <edge id="244" source="UKHomeOffice" target="LandRegistry" weight="7" />
+      <edge id="245" source="UKHomeOffice" target="digital-preservation" weight="2" />
+      <edge id="246" source="UKHomeOffice" target="gds-operations" weight="5" />
+      <edge id="247" source="UKHomeOffice" target="AusDTO" weight="1" />
+      <edge id="248" source="UKHomeOffice" target="gds-attic" weight="10" />
+      <edge id="249" source="UKHomeOffice" target="alphagov" weight="20" />
+      <edge id="250" source="UKHomeOffice" target="ministryofjustice" weight="10" />
+      <edge id="251" source="alv-ch" target="alv-ch-ansible-roles" weight="1" />
+      <edge id="252" source="NMB-Dev" target="blue-button" weight="1" />
+      <edge id="253" source="NMB-Dev" target="DigitalInclusion" weight="1" />
+      <edge id="254" source="USGCRP" target="18F" weight="1" />
+      <edge id="255" source="USGCRP" target="gcba" weight="1" />
+      <edge id="256" source="USGCRP" target="ibamacsr" weight="1" />
+      <edge id="257" source="USGCRP" target="AyuntamientoMadrid" weight="1" />
+      <edge id="258" source="USGCRP" target="wet-boew" weight="1" />
+      <edge id="259" source="USGCRP" target="Senescyt" weight="1" />
+      <edge id="260" source="USGCRP" target="gbv" weight="1" />
+      <edge id="261" source="USGCRP" target="cfpb" weight="1" />
+      <edge id="262" source="USGCRP" target="CityofOttawa" weight="1" />
+      <edge id="263" source="USGCRP" target="PROCERGS" weight="1" />
+      <edge id="264" source="USGCRP" target="erdc-cm" weight="1" />
+      <edge id="265" source="USGCRP" target="govbr" weight="1" />
+      <edge id="266" source="USGCRP" target="peacecorps" weight="1" />
+      <edge id="267" source="USGCRP" target="SENATICS" weight="1" />
+      <edge id="268" source="USGCRP" target="CityOfPhiladelphia" weight="1" />
+      <edge id="269" source="USGCRP" target="ngds" weight="1" />
+      <edge id="270" source="USGCRP" target="envris" weight="1" />
+      <edge id="271" source="CMSgov" target="presidential-innovation-fellows" weight="2" />
+      <edge id="272" source="CMSgov" target="18F" weight="2" />
+      <edge id="273" source="CMSgov" target="eHawaii" weight="1" />
+      <edge id="274" source="CMSgov" target="department-of-veterans-affairs" weight="2" />
+      <edge id="275" source="GuildfordBC" target="LocalGovDigital" weight="1" />
+      <edge id="276" source="argob" target="gcba" weight="2" />
+      <edge id="277" source="AyuntamientoMadrid" target="18F" weight="1" />
+      <edge id="278" source="AyuntamientoMadrid" target="gcba" weight="1" />
+      <edge id="279" source="AyuntamientoMadrid" target="ibamacsr" weight="1" />
+      <edge id="280" source="AyuntamientoMadrid" target="wet-boew" weight="2" />
+      <edge id="281" source="AyuntamientoMadrid" target="Senescyt" weight="1" />
+      <edge id="282" source="AyuntamientoMadrid" target="gbv" weight="1" />
+      <edge id="283" source="AyuntamientoMadrid" target="cfpb" weight="1" />
+      <edge id="284" source="AyuntamientoMadrid" target="CityofOttawa" weight="1" />
+      <edge id="285" source="AyuntamientoMadrid" target="PROCERGS" weight="1" />
+      <edge id="286" source="AyuntamientoMadrid" target="erdc-cm" weight="1" />
+      <edge id="287" source="AyuntamientoMadrid" target="govbr" weight="1" />
+      <edge id="288" source="AyuntamientoMadrid" target="peacecorps" weight="1" />
+      <edge id="289" source="AyuntamientoMadrid" target="SENATICS" weight="1" />
+      <edge id="290" source="AyuntamientoMadrid" target="CityOfPhiladelphia" weight="1" />
+      <edge id="291" source="AyuntamientoMadrid" target="ngds" weight="1" />
+      <edge id="292" source="AyuntamientoMadrid" target="envris" weight="1" />
+      <edge id="293" source="MetOfficeSpaceApps" target="met-office-lab" weight="1" />
+      <edge id="294" source="MetOfficeSpaceApps" target="alphagov" weight="1" />
+      <edge id="295" source="MetOfficeSpaceApps" target="digital-preservation" weight="1" />
+      <edge id="296" source="USGS-R" target="USGS-CMG" weight="1" />
+      <edge id="297" source="USGS-R" target="parksandwildlife" weight="1" />
+      <edge id="298" source="USGS-R" target="HSLdevcom" weight="1" />
+      <edge id="299" source="USGS-R" target="department-of-veterans-affairs" weight="1" />
+      <edge id="300" source="USGS-R" target="CanterburyRegionalCouncil" weight="1" />
+      <edge id="301" source="USGS-R" target="CityOfPhiladelphia" weight="1" />
+      <edge id="302" source="USGS-R" target="bcgov" weight="1" />
+      <edge id="303" source="USGS-R" target="JNCC-UK" weight="1" />
+      <edge id="304" source="USGS-R" target="CORaleigh" weight="1" />
+      <edge id="305" source="USGS-R" target="hmrc" weight="1" />
+      <edge id="306" source="USGS-R" target="18F" weight="1" />
+      <edge id="307" source="USGS-R" target="City-of-Helsinki" weight="1" />
+      <edge id="308" source="USGS-R" target="ioos" weight="1" />
+      <edge id="309" source="USGS-R" target="CommerceDataService" weight="1" />
+      <edge id="310" source="USGS-R" target="cityofasheville" weight="1" />
+      <edge id="311" source="USGS-R" target="BCDevExchange" weight="1" />
+      <edge id="312" source="USGS-R" target="sgmap" weight="1" />
+      <edge id="313" source="USGS-R" target="usgs" weight="7" />
+      <edge id="314" source="USGS-R" target="interlegis" weight="1" />
+      <edge id="315" source="USGS-R" target="USGS-CIDA" weight="16" />
+      <edge id="316" source="USGS-R" target="City-of-Raleigh-Public-Utilities" weight="1" />
+      <edge id="317" source="USGS-R" target="USGS-OWI" weight="1" />
+      <edge id="318" source="jules-lsm" target="metomi" weight="1" />
+      <edge id="319" source="State-of-Arizona" target="LambethCouncil" weight="14" />
+      <edge id="320" source="State-of-Arizona" target="lfucg" weight="1" />
+      <edge id="321" source="State-of-Arizona" target="project-open-data" weight="1" />
+      <edge id="322" source="State-of-Arizona" target="govCMS" weight="1" />
+      <edge id="323" source="CityOfNewYork" target="project-open-data" weight="1" />
+      <edge id="324" source="CityOfNewYork" target="alphagov" weight="1" />
+      <edge id="325" source="CityOfNewYork" target="datagovuk" weight="1" />
+      <edge id="326" source="CityOfNewYork" target="uscensusbureau" weight="1" />
+      <edge id="327" source="dvla" target="hmrc" weight="1" />
+      <edge id="328" source="dvla" target="gds-operations" weight="1" />
+      <edge id="329" source="dvla" target="Department-for-Work-and-Pensions" weight="4" />
+      <edge id="330" source="dvla" target="alphagov" weight="2" />
+      <edge id="331" source="BostonRedevelop" target="18F" weight="1" />
+      <edge id="332" source="BostonRedevelop" target="monum" weight="1" />
+      <edge id="333" source="BostonRedevelop" target="CityOfBoston" weight="1" />
+      <edge id="334" source="CA-CST-SII" target="CA-CST-Library" weight="2" />
+      <edge id="335" source="CA-CST-SII" target="18F" weight="1" />
+      <edge id="336" source="CA-CST-SII" target="erdc-cm" weight="1" />
+      <edge id="337" source="CA-CST-SII" target="department-of-veterans-affairs" weight="1" />
+      <edge id="338" source="CA-CST-SII" target="usds" weight="1" />
+      <edge id="339" source="usinterior" target="18F" weight="3" />
+      <edge id="340" source="usinterior" target="USDA" weight="1" />
+      <edge id="341" source="usinterior" target="USFWS" weight="1" />
+      <edge id="342" source="usinterior" target="presidential-innovation-fellows" weight="1" />
+      <edge id="343" source="usinterior" target="project-open-data" weight="1" />
+      <edge id="344" source="usinterior" target="BFELoB" weight="1" />
+      <edge id="345" source="usinterior" target="department-of-veterans-affairs" weight="1" />
+      <edge id="346" source="usinterior" target="usds" weight="1" />
+      <edge id="347" source="usinterior" target="usbr" weight="1" />
+      <edge id="348" source="usinterior" target="WhiteHouse" weight="1" />
+      <edge id="349" source="usinterior" target="government-services" weight="1" />
+      <edge id="350" source="azgs" target="ngds" weight="5" />
+      <edge id="351" source="nationalarchives" target="ministryofjustice" weight="1" />
+      <edge id="352" source="City-of-Helsinki" target="hmrc" weight="1" />
+      <edge id="353" source="City-of-Helsinki" target="department-of-veterans-affairs" weight="1" />
+      <edge id="354" source="City-of-Helsinki" target="interlegis" weight="1" />
+      <edge id="355" source="City-of-Helsinki" target="CORaleigh" weight="1" />
+      <edge id="356" source="City-of-Helsinki" target="CanterburyRegionalCouncil" weight="1" />
+      <edge id="357" source="City-of-Helsinki" target="parksandwildlife" weight="1" />
+      <edge id="358" source="City-of-Helsinki" target="USGS-CIDA" weight="1" />
+      <edge id="359" source="City-of-Helsinki" target="sgmap" weight="1" />
+      <edge id="360" source="City-of-Helsinki" target="City-of-Bloomington" weight="1" />
+      <edge id="361" source="City-of-Helsinki" target="CommerceDataService" weight="1" />
+      <edge id="362" source="City-of-Helsinki" target="cityofasheville" weight="1" />
+      <edge id="363" source="City-of-Helsinki" target="HSLdevcom" weight="5" />
+      <edge id="364" source="City-of-Helsinki" target="DigitalInclusion" weight="1" />
+      <edge id="365" source="City-of-Helsinki" target="bcgov" weight="1" />
+      <edge id="366" source="City-of-Helsinki" target="City-of-Raleigh-Public-Utilities" weight="1" />
+      <edge id="367" source="City-of-Helsinki" target="BCDevExchange" weight="1" />
+      <edge id="368" source="City-of-Helsinki" target="18F" weight="1" />
+      <edge id="369" source="City-of-Helsinki" target="CityOfPhiladelphia" weight="1" />
+      <edge id="370" source="ioos" target="psrc" weight="1" />
+      <edge id="371" source="ioos" target="USGS-CIDA" weight="4" />
+      <edge id="372" source="ioos" target="wet-boew" weight="1" />
+      <edge id="373" source="ioos" target="met-office-lab" weight="1" />
+      <edge id="374" source="ioos" target="project-open-data" weight="1" />
+      <edge id="375" source="ioos" target="NESII" weight="1" />
+      <edge id="376" source="ioos" target="USGS-CMG" weight="6" />
+      <edge id="377" source="ioos" target="NOAA-ORR-ERD" weight="4" />
+      <edge id="378" source="ioos" target="usgs" weight="1" />
+      <edge id="379" source="libris" target="Kungbib" weight="5" />
+      <edge id="380" source="libris" target="LLDD" weight="1" />
+      <edge id="381" source="libris" target="rinfo" weight="1" />
+      <edge id="382" source="CommerceDataService" target="parksandwildlife" weight="1" />
+      <edge id="383" source="CommerceDataService" target="HSLdevcom" weight="1" />
+      <edge id="384" source="CommerceDataService" target="department-of-veterans-affairs" weight="2" />
+      <edge id="385" source="CommerceDataService" target="CanterburyRegionalCouncil" weight="1" />
+      <edge id="386" source="CommerceDataService" target="CityOfPhiladelphia" weight="1" />
+      <edge id="387" source="CommerceDataService" target="presidential-innovation-fellows" weight="3" />
+      <edge id="388" source="CommerceDataService" target="bcgov" weight="2" />
+      <edge id="389" source="CommerceDataService" target="hmrc" weight="1" />
+      <edge id="390" source="CommerceDataService" target="18F" weight="4" />
+      <edge id="391" source="CommerceDataService" target="uscensusbureau" weight="1" />
+      <edge id="392" source="CommerceDataService" target="CommerceGov" weight="1" />
+      <edge id="393" source="CommerceDataService" target="cityofasheville" weight="1" />
+      <edge id="394" source="CommerceDataService" target="BCDevExchange" weight="1" />
+      <edge id="395" source="CommerceDataService" target="sgmap" weight="1" />
+      <edge id="396" source="CommerceDataService" target="interlegis" weight="1" />
+      <edge id="397" source="CommerceDataService" target="USDepartmentofLabor" weight="2" />
+      <edge id="398" source="CommerceDataService" target="USGS-CIDA" weight="1" />
+      <edge id="399" source="CommerceDataService" target="City-of-Raleigh-Public-Utilities" weight="1" />
+      <edge id="400" source="CommerceDataService" target="CORaleigh" weight="1" />
+      <edge id="401" source="CommerceDataService" target="nasa" weight="1" />
+      <edge id="402" source="CityofOttawa" target="gcba" weight="1" />
+      <edge id="403" source="CityofOttawa" target="CityOfPhiladelphia" weight="1" />
+      <edge id="404" source="CityofOttawa" target="govbr" weight="1" />
+      <edge id="405" source="CityofOttawa" target="ibamacsr" weight="1" />
+      <edge id="406" source="CityofOttawa" target="Senescyt" weight="1" />
+      <edge id="407" source="CityofOttawa" target="open-data" weight="2" />
+      <edge id="408" source="CityofOttawa" target="bcgov" weight="1" />
+      <edge id="409" source="CityofOttawa" target="18F" weight="3" />
+      <edge id="410" source="CityofOttawa" target="peacecorps" weight="1" />
+      <edge id="411" source="CityofOttawa" target="wet-boew" weight="3" />
+      <edge id="412" source="CityofOttawa" target="erdc-cm" weight="1" />
+      <edge id="413" source="CityofOttawa" target="WhiteHouse" weight="1" />
+      <edge id="414" source="CityofOttawa" target="ngds" weight="1" />
+      <edge id="415" source="CityofOttawa" target="gbv" weight="1" />
+      <edge id="416" source="CityofOttawa" target="cfpb" weight="1" />
+      <edge id="417" source="CityofOttawa" target="PROCERGS" weight="1" />
+      <edge id="418" source="CityofOttawa" target="SENATICS" weight="1" />
+      <edge id="419" source="CityofOttawa" target="envris" weight="1" />
+      <edge id="420" source="USAID" target="project-open-data" weight="2" />
+      <edge id="421" source="USAID" target="peacecorps" weight="1" />
+      <edge id="422" source="state-hiu" target="IIP-Design" weight="1" />
+      <edge id="423" source="state-hiu" target="ngageoint" weight="3" />
+      <edge id="424" source="state-hiu" target="project-open-data" weight="2" />
+      <edge id="425" source="state-hiu" target="peacecorps" weight="1" />
+      <edge id="426" source="state-hiu" target="WhiteHouse" weight="1" />
+      <edge id="427" source="state-hiu" target="USStateDept" weight="1" />
+      <edge id="428" source="gemeentemuseum" target="adsib" weight="1" />
+      <edge id="429" source="governmentbg" target="govbg" weight="1" />
+      <edge id="430" source="governmentbg" target="alphagov" weight="1" />
+      <edge id="431" source="usgs" target="USGS-CMG" weight="1" />
+      <edge id="432" source="usgs" target="USGS-OWI" weight="1" />
+      <edge id="433" source="usgs" target="USGS-CIDA" weight="11" />
+      <edge id="434" source="USFWS" target="18F" weight="1" />
+      <edge id="435" source="interlegis" target="parksandwildlife" weight="1" />
+      <edge id="436" source="interlegis" target="plonegovbr" weight="8" />
+      <edge id="437" source="interlegis" target="HSLdevcom" weight="1" />
+      <edge id="438" source="interlegis" target="department-of-veterans-affairs" weight="1" />
+      <edge id="439" source="interlegis" target="CanterburyRegionalCouncil" weight="1" />
+      <edge id="440" source="interlegis" target="CityOfPhiladelphia" weight="1" />
+      <edge id="441" source="interlegis" target="bcgov" weight="1" />
+      <edge id="442" source="interlegis" target="CORaleigh" weight="1" />
+      <edge id="443" source="interlegis" target="hmrc" weight="1" />
+      <edge id="444" source="interlegis" target="18F" weight="1" />
+      <edge id="445" source="interlegis" target="cityofasheville" weight="1" />
+      <edge id="446" source="interlegis" target="BCDevExchange" weight="1" />
+      <edge id="447" source="interlegis" target="sgmap" weight="1" />
+      <edge id="448" source="interlegis" target="lexml" weight="1" />
+      <edge id="449" source="interlegis" target="labhackercd" weight="1" />
+      <edge id="450" source="interlegis" target="USGS-CIDA" weight="1" />
+      <edge id="451" source="interlegis" target="City-of-Raleigh-Public-Utilities" weight="1" />
+      <edge id="452" source="opengovplatform" target="WhiteHouse" weight="1" />
+      <edge id="453" source="opengovplatform" target="project-open-data" weight="1" />
+      <edge id="454" source="opengovplatform" target="ngds" weight="1" />
+      <edge id="455" source="gsi-cyberjapan" target="ngageoint" weight="1" />
+      <edge id="456" source="IQuOD" target="psrc" weight="1" />
+      <edge id="457" source="USGS-OWI" target="USGS-CIDA" weight="2" />
+      <edge id="458" source="USGS-OWI" target="USGS-WiM" weight="1" />
+      <edge id="459" source="BristolCityCouncil" target="ONSdigital" weight="2" />
+      <edge id="460" source="BristolCityCouncil" target="alphagov" weight="1" />
+      <edge id="461" source="gbv" target="lobid" weight="2" />
+      <edge id="462" source="gbv" target="18F" weight="1" />
+      <edge id="463" source="gbv" target="gcba" weight="1" />
+      <edge id="464" source="gbv" target="ibamacsr" weight="1" />
+      <edge id="465" source="gbv" target="hbz" weight="1" />
+      <edge id="466" source="gbv" target="wet-boew" weight="1" />
+      <edge id="467" source="gbv" target="Senescyt" weight="1" />
+      <edge id="468" source="gbv" target="govbr" weight="1" />
+      <edge id="469" source="gbv" target="cfpb" weight="1" />
+      <edge id="470" source="gbv" target="PROCERGS" weight="1" />
+      <edge id="471" source="gbv" target="erdc-cm" weight="1" />
+      <edge id="472" source="gbv" target="peacecorps" weight="1" />
+      <edge id="473" source="gbv" target="SENATICS" weight="1" />
+      <edge id="474" source="gbv" target="CityOfPhiladelphia" weight="1" />
+      <edge id="475" source="gbv" target="ngds" weight="1" />
+      <edge id="476" source="gbv" target="envris" weight="1" />
+      <edge id="477" source="Lichfield-District-Council" target="ONSdigital" weight="1" />
+      <edge id="478" source="Lichfield-District-Council" target="alphagov" weight="1" />
+      <edge id="479" source="Lichfield-District-Council" target="ministryofjustice" weight="1" />
+      <edge id="480" source="missioncommand" target="lexml" weight="1" />
+      <edge id="481" source="missioncommand" target="rinfo" weight="1" />
+      <edge id="482" source="UKTradeInvestment" target="alphagov" weight="1" />
+      <edge id="483" source="UKTradeInvestment" target="ministryofjustice" weight="3" />
+      <edge id="484" source="MKM-ITAO" target="project-open-data" weight="1" />
+      <edge id="485" source="MKM-ITAO" target="e-gov" weight="1" />
+      <edge id="486" source="ministryofjustice" target="LambethCouncil" weight="1" />
+      <edge id="487" source="ministryofjustice" target="gds-dead" weight="1" />
+      <edge id="488" source="ministryofjustice" target="EnvHack2" weight="1" />
+      <edge id="489" source="ministryofjustice" target="Defra" weight="2" />
+      <edge id="490" source="ministryofjustice" target="hmrc" weight="1" />
+      <edge id="491" source="ministryofjustice" target="EnvironmentAgency" weight="2" />
+      <edge id="492" source="ministryofjustice" target="LandRegistry" weight="9" />
+      <edge id="493" source="ministryofjustice" target="ONSdigital" weight="1" />
+      <edge id="494" source="ministryofjustice" target="gds-operations" weight="3" />
+      <edge id="495" source="ministryofjustice" target="gds-attic" weight="22" />
+      <edge id="496" source="ministryofjustice" target="alphagov" weight="41" />
+      <edge id="497" source="ministryofjustice" target="USStateDept" weight="1" />
+      <edge id="498" source="ministryofjustice" target="IATI" weight="1" />
+      <edge id="499" source="FDA" target="18F" weight="2" />
+      <edge id="500" source="FDA" target="USDA" weight="1" />
+      <edge id="501" source="FDA" target="USDepartmentofLabor" weight="1" />
+      <edge id="502" source="FDA" target="presidential-innovation-fellows" weight="1" />
+      <edge id="503" source="FDA" target="cfpb" weight="1" />
+      <edge id="504" source="FDA" target="virtual-world-framework" weight="1" />
+      <edge id="505" source="FDA" target="project-open-data" weight="1" />
+      <edge id="506" source="FDA" target="department-of-veterans-affairs" weight="1" />
+      <edge id="507" source="FDA" target="WhiteHouse" weight="1" />
+      <edge id="508" source="FDA" target="CityOfPhiladelphia" weight="1" />
+      <edge id="509" source="FDA" target="DCCouncil" weight="1" />
+      <edge id="510" source="usbr" target="USGS-CIDA" weight="1" />
+      <edge id="511" source="gcba" target="e-gob" weight="1" />
+      <edge id="512" source="gcba" target="datal-org" weight="3" />
+      <edge id="513" source="gcba" target="SENATICS" weight="1" />
+      <edge id="514" source="gcba" target="CityOfPhiladelphia" weight="1" />
+      <edge id="515" source="gcba" target="govbr" weight="1" />
+      <edge id="516" source="gcba" target="ibamacsr" weight="1" />
+      <edge id="517" source="gcba" target="Senescyt" weight="1" />
+      <edge id="518" source="gcba" target="bcgov" weight="1" />
+      <edge id="519" source="gcba" target="peacecorps" weight="1" />
+      <edge id="520" source="gcba" target="18F" weight="2" />
+      <edge id="521" source="gcba" target="wet-boew" weight="1" />
+      <edge id="522" source="gcba" target="erdc-cm" weight="1" />
+      <edge id="523" source="gcba" target="ngds" weight="1" />
+      <edge id="524" source="gcba" target="cfpb" weight="1" />
+      <edge id="525" source="gcba" target="PROCERGS" weight="1" />
+      <edge id="526" source="gcba" target="project-open-data" weight="1" />
+      <edge id="527" source="gcba" target="envris" weight="1" />
+      <edge id="528" source="IIP-Design" target="USStateDept" weight="6" />
+      <edge id="529" source="parksandwildlife" target="hmrc" weight="1" />
+      <edge id="530" source="parksandwildlife" target="department-of-veterans-affairs" weight="1" />
+      <edge id="531" source="parksandwildlife" target="CORaleigh" weight="1" />
+      <edge id="532" source="parksandwildlife" target="CanterburyRegionalCouncil" weight="1" />
+      <edge id="533" source="parksandwildlife" target="USGS-CIDA" weight="1" />
+      <edge id="534" source="parksandwildlife" target="sgmap" weight="1" />
+      <edge id="535" source="parksandwildlife" target="cityofasheville" weight="1" />
+      <edge id="536" source="parksandwildlife" target="HSLdevcom" weight="1" />
+      <edge id="537" source="parksandwildlife" target="bcgov" weight="1" />
+      <edge id="538" source="parksandwildlife" target="City-of-Raleigh-Public-Utilities" weight="1" />
+      <edge id="539" source="parksandwildlife" target="BCDevExchange" weight="1" />
+      <edge id="540" source="parksandwildlife" target="18F" weight="1" />
+      <edge id="541" source="parksandwildlife" target="CityOfPhiladelphia" weight="1" />
+      <edge id="542" source="TBS-EACPD" target="moexmen" weight="1" />
+      <edge id="543" source="NASA-DEVELOP" target="nasa" weight="1" />
+      <edge id="544" source="datal-org" target="e-gob" weight="4" />
+      <edge id="545" source="LibraryOfCongress" target="usnationalarchives" weight="1" />
+      <edge id="546" source="LibraryOfCongress" target="18F" weight="5" />
+      <edge id="547" source="LibraryOfCongress" target="ngageoint" weight="1" />
+      <edge id="548" source="plonegovbr" target="dadosgovbr" weight="3" />
+      <edge id="549" source="plonegovbr" target="govbr" weight="2" />
+      <edge id="550" source="plonegovbr" target="culturagovbr" weight="1" />
+      <edge id="551" source="plonegovbr" target="PROCERGS" weight="1" />
+      <edge id="552" source="plonegovbr" target="labhackercd" weight="1" />
+      <edge id="553" source="City-of-Raleigh-Public-Utilities" target="hmrc" weight="1" />
+      <edge id="554" source="City-of-Raleigh-Public-Utilities" target="department-of-veterans-affairs" weight="1" />
+      <edge id="555" source="City-of-Raleigh-Public-Utilities" target="CanterburyRegionalCouncil" weight="1" />
+      <edge id="556" source="City-of-Raleigh-Public-Utilities" target="USGS-CIDA" weight="1" />
+      <edge id="557" source="City-of-Raleigh-Public-Utilities" target="CityOfPhiladelphia" weight="1" />
+      <edge id="558" source="City-of-Raleigh-Public-Utilities" target="cityofasheville" weight="2" />
+      <edge id="559" source="City-of-Raleigh-Public-Utilities" target="HSLdevcom" weight="1" />
+      <edge id="560" source="City-of-Raleigh-Public-Utilities" target="bcgov" weight="1" />
+      <edge id="561" source="City-of-Raleigh-Public-Utilities" target="sgmap" weight="1" />
+      <edge id="562" source="City-of-Raleigh-Public-Utilities" target="BCDevExchange" weight="1" />
+      <edge id="563" source="City-of-Raleigh-Public-Utilities" target="18F" weight="1" />
+      <edge id="564" source="City-of-Raleigh-Public-Utilities" target="CORaleigh" weight="2" />
+      <edge id="565" source="commonwealth-of-puerto-rico" target="edinburghcouncil" weight="1" />
+      <edge id="566" source="commonwealth-of-puerto-rico" target="MinELenI" weight="1" />
+      <edge id="567" source="USGS-CMG" target="USGS-CIDA" weight="4" />
+      <edge id="568" source="USGS-CMG" target="wet-boew" weight="1" />
+      <edge id="569" source="USGS-CMG" target="project-open-data" weight="1" />
+      <edge id="570" source="USGS-CMG" target="psrc" weight="1" />
+      <edge id="571" source="USGS-CMG" target="NOAA-ORR-ERD" weight="2" />
+      <edge id="572" source="SacCounty" target="chhsopendata" weight="1" />
+      <edge id="573" source="etalab" target="18F" weight="1" />
+      <edge id="574" source="etalab" target="communaute-cimi" weight="1" />
+      <edge id="575" source="etalab" target="SGMAP-AGD" weight="3" />
+      <edge id="576" source="etalab" target="ngageoint" weight="1" />
+      <edge id="577" source="etalab" target="DISIC" weight="1" />
+      <edge id="578" source="etalab" target="project-open-data" weight="1" />
+      <edge id="579" source="etalab" target="sgmap" weight="2" />
+      <edge id="580" source="etalab" target="WhiteHouse" weight="1" />
+      <edge id="581" source="CityOfPhiladelphia" target="Chicago" weight="1" />
+      <edge id="582" source="CityOfPhiladelphia" target="usds" weight="1" />
+      <edge id="583" source="CityOfPhiladelphia" target="ngageoint" weight="1" />
+      <edge id="584" source="CityOfPhiladelphia" target="HSLdevcom" weight="1" />
+      <edge id="585" source="CityOfPhiladelphia" target="department-of-veterans-affairs" weight="3" />
+      <edge id="586" source="CityOfPhiladelphia" target="SENATICS" weight="1" />
+      <edge id="587" source="CityOfPhiladelphia" target="DCCouncil" weight="1" />
+      <edge id="588" source="CityOfPhiladelphia" target="nycdot" weight="4" />
+      <edge id="589" source="CityOfPhiladelphia" target="CanterburyRegionalCouncil" weight="1" />
+      <edge id="590" source="CityOfPhiladelphia" target="govbr" weight="1" />
+      <edge id="591" source="CityOfPhiladelphia" target="ibamacsr" weight="1" />
+      <edge id="592" source="CityOfPhiladelphia" target="Senescyt" weight="1" />
+      <edge id="593" source="CityOfPhiladelphia" target="presidential-innovation-fellows" weight="3" />
+      <edge id="594" source="CityOfPhiladelphia" target="FCC" weight="1" />
+      <edge id="595" source="CityOfPhiladelphia" target="bcgov" weight="1" />
+      <edge id="596" source="CityOfPhiladelphia" target="peacecorps" weight="1" />
+      <edge id="597" source="CityOfPhiladelphia" target="cambridgegis" weight="1" />
+      <edge id="598" source="CityOfPhiladelphia" target="Innovation-Toolkit" weight="1" />
+      <edge id="599" source="CityOfPhiladelphia" target="hmrc" weight="1" />
+      <edge id="600" source="CityOfPhiladelphia" target="DCgov" weight="1" />
+      <edge id="601" source="CityOfPhiladelphia" target="18F" weight="12" />
+      <edge id="602" source="CityOfPhiladelphia" target="USDA" weight="1" />
+      <edge id="603" source="CityOfPhiladelphia" target="wet-boew" weight="1" />
+      <edge id="604" source="CityOfPhiladelphia" target="project-open-data" weight="2" />
+      <edge id="605" source="CityOfPhiladelphia" target="BCDevExchange" weight="1" />
+      <edge id="606" source="CityOfPhiladelphia" target="sgmap" weight="1" />
+      <edge id="607" source="CityOfPhiladelphia" target="WhiteHouse" weight="3" />
+      <edge id="608" source="CityOfPhiladelphia" target="ngds" weight="1" />
+      <edge id="609" source="CityOfPhiladelphia" target="CityofSanFrancisco" weight="1" />
+      <edge id="610" source="CityOfPhiladelphia" target="USDepartmentofLabor" weight="1" />
+      <edge id="611" source="CityOfPhiladelphia" target="USGS-CIDA" weight="1" />
+      <edge id="612" source="CityOfPhiladelphia" target="cityofasheville" weight="1" />
+      <edge id="613" source="CityOfPhiladelphia" target="CORaleigh" weight="1" />
+      <edge id="614" source="CityOfPhiladelphia" target="cfpb" weight="3" />
+      <edge id="615" source="CityOfPhiladelphia" target="virtual-world-framework" weight="1" />
+      <edge id="616" source="CityOfPhiladelphia" target="PROCERGS" weight="1" />
+      <edge id="617" source="CityOfPhiladelphia" target="ombegov" weight="1" />
+      <edge id="618" source="CityOfPhiladelphia" target="erdc-cm" weight="1" />
+      <edge id="619" source="CityOfPhiladelphia" target="envris" weight="1" />
+      <edge id="620" source="nasa-gibs" target="nasa" weight="1" />
+      <edge id="621" source="lobid" target="hbz" weight="7" />
+      <edge id="622" source="SJCGIS" target="project-open-data" weight="1" />
+      <edge id="623" source="SelectUSA" target="InternationalTradeAdministration" weight="1" />
+      <edge id="624" source="west-berkshire-council" target="LocalGovDigital" weight="1" />
+      <edge id="625" source="ProBonoDC" target="18F" weight="1" />
+      <edge id="626" source="ProBonoDC" target="bcgov" weight="1" />
+      <edge id="627" source="ProBonoDC" target="USDepartmentofLabor" weight="1" />
+      <edge id="628" source="ProBonoDC" target="OpenGovDC" weight="1" />
+      <edge id="629" source="ProBonoDC" target="DCCouncil" weight="1" />
+      <edge id="630" source="lfucg" target="18F" weight="1" />
+      <edge id="631" source="datagovuk" target="IATI" weight="2" />
+      <edge id="632" source="datagovuk" target="govro" weight="1" />
+      <edge id="633" source="datagovuk" target="dadosgovbr" weight="1" />
+      <edge id="634" source="datagovuk" target="datagovau" weight="6" />
+      <edge id="635" source="datagovuk" target="uscensusbureau" weight="1" />
+      <edge id="636" source="datagovuk" target="project-open-data" weight="1" />
+      <edge id="637" source="datagovuk" target="bcgov" weight="1" />
+      <edge id="638" source="datagovuk" target="peacecorps" weight="1" />
+      <edge id="639" source="datagovuk" target="gds-attic" weight="1" />
+      <edge id="640" source="datagovuk" target="alphagov" weight="1" />
+      <edge id="641" source="datagovuk" target="USStateDept" weight="1" />
+      <edge id="642" source="datagovuk" target="ngds" weight="1" />
+      <edge id="643" source="Senescyt" target="18F" weight="1" />
+      <edge id="644" source="Senescyt" target="ibamacsr" weight="1" />
+      <edge id="645" source="Senescyt" target="wet-boew" weight="1" />
+      <edge id="646" source="Senescyt" target="cfpb" weight="1" />
+      <edge id="647" source="Senescyt" target="PROCERGS" weight="1" />
+      <edge id="648" source="Senescyt" target="erdc-cm" weight="1" />
+      <edge id="649" source="Senescyt" target="govbr" weight="1" />
+      <edge id="650" source="Senescyt" target="peacecorps" weight="1" />
+      <edge id="651" source="Senescyt" target="SENATICS" weight="1" />
+      <edge id="652" source="Senescyt" target="ngds" weight="1" />
+      <edge id="653" source="Senescyt" target="envris" weight="1" />
+      <edge id="654" source="HHSIDEAlab" target="18F" weight="1" />
+      <edge id="655" source="HHSIDEAlab" target="WhiteHouse" weight="1" />
+      <edge id="656" source="HHSIDEAlab" target="project-open-data" weight="1" />
+      <edge id="657" source="HHSIDEAlab" target="DCCouncil" weight="1" />
+      <edge id="658" source="HHSIDEAlab" target="demand-driven-open-data" weight="1" />
+      <edge id="659" source="MN-Script-Team" target="Anoka-Script-Team" weight="2" />
+      <edge id="660" source="HistoryAtState" target="18F" weight="1" />
+      <edge id="661" source="HistoryAtState" target="USStateDept" weight="1" />
+      <edge id="662" source="Honolulu" target="cityofaustin" weight="1" />
+      <edge id="663" source="Honolulu" target="18F" weight="3" />
+      <edge id="664" source="open-eid" target="e-gov" weight="2" />
+      <edge id="665" source="ONSdigital" target="petsc" weight="1" />
+      <edge id="666" source="ONSdigital" target="18F" weight="2" />
+      <edge id="667" source="ONSdigital" target="adsib" weight="1" />
+      <edge id="668" source="ONSdigital" target="uscensusbureau" weight="1" />
+      <edge id="669" source="ONSdigital" target="companieshouse" weight="1" />
+      <edge id="670" source="ONSdigital" target="govCMS" weight="1" />
+      <edge id="671" source="ONSdigital" target="met-office-lab" weight="63" />
+      <edge id="672" source="ONSdigital" target="bcgov" weight="1" />
+      <edge id="673" source="ONSdigital" target="gds-operations" weight="1" />
+      <edge id="674" source="ONSdigital" target="gds-attic" weight="1" />
+      <edge id="675" source="ONSdigital" target="alphagov" weight="78" />
+      <edge id="676" source="gds-operations" target="hmrc" weight="3" />
+      <edge id="677" source="gds-operations" target="InsolvencyService" weight="1" />
+      <edge id="678" source="gds-operations" target="gds-attic" weight="22" />
+      <edge id="679" source="gds-operations" target="alphagov" weight="31" />
+      <edge id="680" source="gds-operations" target="USStateDept" weight="1" />
+      <edge id="681" source="gds-attic" target="DFID" weight="1" />
+      <edge id="682" source="gds-attic" target="EnvHack2" weight="2" />
+      <edge id="683" source="gds-attic" target="AusDTO" weight="1" />
+      <edge id="684" source="gds-attic" target="alphagov" weight="140" />
+      <edge id="685" source="gds-attic" target="USStateDept" weight="1" />
+      <edge id="686" source="gds-attic" target="LandRegistry-Ops" weight="1" />
+      <edge id="687" source="gds-attic" target="hmrc" weight="3" />
+      <edge id="688" source="gds-attic" target="DCgov" weight="1" />
+      <edge id="689" source="gds-attic" target="18F" weight="2" />
+      <edge id="690" source="gds-attic" target="Defra" weight="3" />
+      <edge id="691" source="gds-attic" target="gds-dead" weight="1" />
+      <edge id="692" source="gds-attic" target="project-open-data" weight="1" />
+      <edge id="693" source="gds-attic" target="LandRegistry" weight="9" />
+      <edge id="694" source="gds-attic" target="WhiteHouse" weight="1" />
+      <edge id="695" source="gds-attic" target="LambethCouncil" weight="1" />
+      <edge id="696" source="gds-attic" target="InsolvencyService" weight="3" />
+      <edge id="697" source="Innovation-Toolkit" target="presidential-innovation-fellows" weight="1" />
+      <edge id="698" source="Innovation-Toolkit" target="18F" weight="1" />
+      <edge id="699" source="mcc-gov" target="presidential-innovation-fellows" weight="1" />
+      <edge id="700" source="USDA" target="USG-SCOPE" weight="1" />
+      <edge id="701" source="USDA" target="18F" weight="3" />
+      <edge id="702" source="USDA" target="USDepartmentofLabor" weight="1" />
+      <edge id="703" source="USDA" target="government-services" weight="1" />
+      <edge id="704" source="USDA" target="BFELoB" weight="1" />
+      <edge id="705" source="USDA" target="presidential-innovation-fellows" weight="1" />
+      <edge id="706" source="USDA" target="cfpb" weight="1" />
+      <edge id="707" source="USDA" target="virtual-world-framework" weight="1" />
+      <edge id="708" source="USDA" target="FCC" weight="1" />
+      <edge id="709" source="USDA" target="project-open-data" weight="2" />
+      <edge id="710" source="USDA" target="department-of-veterans-affairs" weight="2" />
+      <edge id="711" source="USDA" target="usds" weight="1" />
+      <edge id="712" source="USDA" target="WhiteHouse" weight="3" />
+      <edge id="713" source="USDA" target="DCCouncil" weight="1" />
+      <edge id="714" source="twdb" target="TNRIS" weight="1" />
+      <edge id="715" source="Defra" target="gds-dead" weight="1" />
+      <edge id="716" source="Defra" target="LandRegistry" weight="3" />
+      <edge id="717" source="Defra" target="alphagov" weight="6" />
+      <edge id="718" source="CommerceGov" target="18F" weight="1" />
+      <edge id="719" source="CommerceGov" target="USDepartmentofLabor" weight="1" />
+      <edge id="720" source="CommerceGov" target="presidential-innovation-fellows" weight="1" />
+      <edge id="721" source="CommerceGov" target="project-open-data" weight="1" />
+      <edge id="722" source="ozoneplatform" target="ozone-development" weight="11" />
+      <edge id="723" source="monum" target="18F" weight="1" />
+      <edge id="724" source="monum" target="CityOfBoston" weight="2" />
+      <edge id="725" source="noaa-nws-cpc" target="18F" weight="1" />
+      <edge id="726" source="erdc-cm" target="uscensusbureau" weight="1" />
+      <edge id="727" source="erdc-cm" target="department-of-veterans-affairs" weight="1" />
+      <edge id="728" source="erdc-cm" target="usds" weight="1" />
+      <edge id="729" source="erdc-cm" target="govbr" weight="2" />
+      <edge id="730" source="erdc-cm" target="ibamacsr" weight="1" />
+      <edge id="731" source="erdc-cm" target="culturagovbr" weight="1" />
+      <edge id="732" source="erdc-cm" target="bcgov" weight="1" />
+      <edge id="733" source="erdc-cm" target="peacecorps" weight="1" />
+      <edge id="734" source="erdc-cm" target="hmrc" weight="1" />
+      <edge id="735" source="erdc-cm" target="DCgov" weight="1" />
+      <edge id="736" source="erdc-cm" target="18F" weight="3" />
+      <edge id="737" source="erdc-cm" target="psrc" weight="1" />
+      <edge id="738" source="erdc-cm" target="USGS-Astrogeology" weight="1" />
+      <edge id="739" source="erdc-cm" target="wet-boew" weight="1" />
+      <edge id="740" source="erdc-cm" target="dstl" weight="1" />
+      <edge id="741" source="erdc-cm" target="SENATICS" weight="1" />
+      <edge id="742" source="erdc-cm" target="BCDevExchange" weight="1" />
+      <edge id="743" source="erdc-cm" target="sgmap" weight="1" />
+      <edge id="744" source="erdc-cm" target="ngds" weight="1" />
+      <edge id="745" source="erdc-cm" target="HHS" weight="1" />
+      <edge id="746" source="erdc-cm" target="pensandoodireito" weight="1" />
+      <edge id="747" source="erdc-cm" target="ngageoint" weight="1" />
+      <edge id="748" source="erdc-cm" target="petsc" weight="28" />
+      <edge id="749" source="erdc-cm" target="cfpb" weight="1" />
+      <edge id="750" source="erdc-cm" target="PROCERGS" weight="2" />
+      <edge id="751" source="erdc-cm" target="envris" weight="1" />
+      <edge id="752" source="NeoGeographyToolkit" target="USGS-Astrogeology" weight="1" />
+      <edge id="753" source="NeoGeographyToolkit" target="nasa" weight="1" />
+      <edge id="754" source="NeoGeographyToolkit" target="visionworkbench" weight="12" />
+      <edge id="755" source="BCDevExchange" target="HSLdevcom" weight="1" />
+      <edge id="756" source="BCDevExchange" target="department-of-veterans-affairs" weight="1" />
+      <edge id="757" source="BCDevExchange" target="CanterburyRegionalCouncil" weight="1" />
+      <edge id="758" source="BCDevExchange" target="govbr" weight="1" />
+      <edge id="759" source="BCDevExchange" target="culturagovbr" weight="1" />
+      <edge id="760" source="BCDevExchange" target="bcgov" weight="12" />
+      <edge id="761" source="BCDevExchange" target="uscensusbureau" weight="1" />
+      <edge id="762" source="BCDevExchange" target="CORaleigh" weight="1" />
+      <edge id="763" source="BCDevExchange" target="hmrc" weight="2" />
+      <edge id="764" source="BCDevExchange" target="DCgov" weight="1" />
+      <edge id="765" source="BCDevExchange" target="18F" weight="2" />
+      <edge id="766" source="BCDevExchange" target="USGS-Astrogeology" weight="1" />
+      <edge id="767" source="BCDevExchange" target="cityofasheville" weight="1" />
+      <edge id="768" source="BCDevExchange" target="dstl" weight="1" />
+      <edge id="769" source="BCDevExchange" target="sgmap" weight="2" />
+      <edge id="770" source="BCDevExchange" target="HHS" weight="1" />
+      <edge id="771" source="BCDevExchange" target="pensandoodireito" weight="1" />
+      <edge id="772" source="BCDevExchange" target="USGS-CIDA" weight="1" />
+      <edge id="773" source="BCDevExchange" target="ngageoint" weight="1" />
+      <edge id="774" source="BCDevExchange" target="PROCERGS" weight="1" />
+      <edge id="775" source="pr-snas" target="govbr" weight="1" />
+      <edge id="776" source="pr-snas" target="GovBrasil" weight="1" />
+      <edge id="777" source="pr-snas" target="dadosgovbr" weight="2" />
+      <edge id="778" source="pr-snas" target="prefeiturasp" weight="1" />
+      <edge id="779" source="pr-snas" target="JusticaGovBR" weight="1" />
+      <edge id="780" source="InternationalTradeAdministration" target="18F" weight="1" />
+      <edge id="781" source="lexml" target="camaradosdeputadosoficial" weight="1" />
+      <edge id="782" source="lexml" target="rinfo" weight="1" />
+      <edge id="783" source="prefeiturasp" target="gabinetedigital" weight="1" />
+      <edge id="784" source="LambethCouncil" target="EnvHack2" weight="1" />
+      <edge id="785" source="LambethCouncil" target="LandRegistry" weight="1" />
+      <edge id="786" source="LambethCouncil" target="alphagov" weight="1" />
+      <edge id="787" source="idagds" target="wet-boew" weight="1" />
+      <edge id="788" source="idagds" target="ngageoint" weight="1" />
+      <edge id="789" source="MinELenI" target="wet-boew" weight="1" />
+      <edge id="790" source="MinELenI" target="edinburghcouncil" weight="1" />
+      <edge id="791" source="MinELenI" target="Geonovum" weight="1" />
+      <edge id="792" source="infra-geo-ouverte" target="DigitalInclusion" weight="1" />
+      <edge id="793" source="petsc" target="psrc" weight="1" />
+      <edge id="794" source="PROCERGS" target="uscensusbureau" weight="1" />
+      <edge id="795" source="PROCERGS" target="dadosgovbr" weight="1" />
+      <edge id="796" source="PROCERGS" target="govbr" weight="3" />
+      <edge id="797" source="PROCERGS" target="ibamacsr" weight="1" />
+      <edge id="798" source="PROCERGS" target="culturagovbr" weight="3" />
+      <edge id="799" source="PROCERGS" target="peacecorps" weight="1" />
+      <edge id="800" source="PROCERGS" target="hmrc" weight="1" />
+      <edge id="801" source="PROCERGS" target="DCgov" weight="1" />
+      <edge id="802" source="PROCERGS" target="18F" weight="2" />
+      <edge id="803" source="PROCERGS" target="USGS-Astrogeology" weight="1" />
+      <edge id="804" source="PROCERGS" target="wet-boew" weight="1" />
+      <edge id="805" source="PROCERGS" target="dstl" weight="1" />
+      <edge id="806" source="PROCERGS" target="sgmap" weight="1" />
+      <edge id="807" source="PROCERGS" target="ngds" weight="1" />
+      <edge id="808" source="PROCERGS" target="HHS" weight="1" />
+      <edge id="809" source="PROCERGS" target="pensandoodireito" weight="1" />
+      <edge id="810" source="PROCERGS" target="gabinetedigital" weight="1" />
+      <edge id="811" source="PROCERGS" target="ngageoint" weight="1" />
+      <edge id="812" source="PROCERGS" target="cfpb" weight="1" />
+      <edge id="813" source="PROCERGS" target="SENATICS" weight="1" />
+      <edge id="814" source="PROCERGS" target="envris" weight="1" />
+      <edge id="815" source="INMEGEN" target="DDT-INMEGEN" weight="1" />
+      <edge id="816" source="INMEGEN" target="CSB-IG" weight="4" />
+      <edge id="817" source="usnationalarchives" target="project-open-data" weight="1" />
+      <edge id="818" source="usnationalarchives" target="18F" weight="3" />
+      <edge id="819" source="usnationalarchives" target="USDepartmentofLabor" weight="1" />
+      <edge id="820" source="NYS-ITS" target="ny" weight="2" />
+      <edge id="821" source="lgss" target="LocalGovDigital" weight="1" />
+      <edge id="822" source="InsolvencyService" target="alphagov" weight="5" />
+      <edge id="823" source="InsolvencyService" target="EnvironmentAgency" weight="1" />
+      <edge id="824" source="InsolvencyService" target="LandRegistry" weight="1" />
+      <edge id="825" source="CityOfBoston" target="18F" weight="1" />
+      <edge id="826" source="envris" target="18F" weight="1" />
+      <edge id="827" source="envris" target="ibamacsr" weight="1" />
+      <edge id="828" source="envris" target="wet-boew" weight="1" />
+      <edge id="829" source="envris" target="cfpb" weight="1" />
+      <edge id="830" source="envris" target="govbr" weight="1" />
+      <edge id="831" source="envris" target="peacecorps" weight="1" />
+      <edge id="832" source="envris" target="SENATICS" weight="1" />
+      <edge id="833" source="envris" target="AusDTO" weight="1" />
+      <edge id="834" source="envris" target="ngds" weight="1" />
+      <edge id="835" source="ogpl" target="virtual-world-framework" weight="1" />
+      <edge id="836" source="ogpl" target="wet-boew" weight="3" />
+      <edge id="837" source="ogpl" target="adsib" weight="1" />
+      <edge id="838" source="DCCouncil" target="HHS" weight="1" />
+      <edge id="839" source="DCCouncil" target="department-of-veterans-affairs" weight="1" />
+      <edge id="840" source="DCCouncil" target="datagovau" weight="1" />
+      <edge id="841" source="DCCouncil" target="18F" weight="3" />
+      <edge id="842" source="DCCouncil" target="USDepartmentofLabor" weight="2" />
+      <edge id="843" source="DCCouncil" target="presidential-innovation-fellows" weight="1" />
+      <edge id="844" source="DCCouncil" target="OpenGovDC" weight="1" />
+      <edge id="845" source="DCCouncil" target="cfpb" weight="2" />
+      <edge id="846" source="DCCouncil" target="virtual-world-framework" weight="1" />
+      <edge id="847" source="DCCouncil" target="project-open-data" weight="3" />
+      <edge id="848" source="DCCouncil" target="bcgov" weight="1" />
+      <edge id="849" source="DCCouncil" target="WhiteHouse" weight="2" />
+      <edge id="850" source="DCCouncil" target="DCgov" weight="1" />
+      <edge id="851" source="CityOfVirginiaBeach" target="City-of-Bloomington" weight="1" />
+      <edge id="852" source="EnvHack2" target="LandRegistry-Ops" weight="1" />
+      <edge id="853" source="EnvHack2" target="EnvironmentAgency" weight="1" />
+      <edge id="854" source="EnvHack2" target="LandRegistry" weight="2" />
+      <edge id="855" source="EnvHack2" target="alphagov" weight="2" />
+      <edge id="856" source="info-sharing-environment" target="18F" weight="1" />
+      <edge id="857" source="info-sharing-environment" target="shareandprotect" weight="1" />
+      <edge id="858" source="info-sharing-environment" target="cfpb" weight="1" />
+      <edge id="859" source="info-sharing-environment" target="presidential-innovation-fellows" weight="1" />
+      <edge id="860" source="info-sharing-environment" target="project-open-data" weight="1" />
+      <edge id="861" source="info-sharing-environment" target="Project-Interoperability" weight="1" />
+      <edge id="862" source="HSLdevcom" target="hmrc" weight="1" />
+      <edge id="863" source="HSLdevcom" target="department-of-veterans-affairs" weight="1" />
+      <edge id="864" source="HSLdevcom" target="CORaleigh" weight="1" />
+      <edge id="865" source="HSLdevcom" target="ngageoint" weight="1" />
+      <edge id="866" source="HSLdevcom" target="CanterburyRegionalCouncil" weight="1" />
+      <edge id="867" source="HSLdevcom" target="USGS-CIDA" weight="1" />
+      <edge id="868" source="HSLdevcom" target="sgmap" weight="1" />
+      <edge id="869" source="HSLdevcom" target="cityofasheville" weight="1" />
+      <edge id="870" source="HSLdevcom" target="bcgov" weight="1" />
+      <edge id="871" source="HSLdevcom" target="18F" weight="1" />
+      <edge id="872" source="department-of-veterans-affairs" target="eHawaii" weight="1" />
+      <edge id="873" source="department-of-veterans-affairs" target="usds" weight="4" />
+      <edge id="874" source="department-of-veterans-affairs" target="nycdot" weight="1" />
+      <edge id="875" source="department-of-veterans-affairs" target="CanterburyRegionalCouncil" weight="1" />
+      <edge id="876" source="department-of-veterans-affairs" target="presidential-innovation-fellows" weight="6" />
+      <edge id="877" source="department-of-veterans-affairs" target="FCC" weight="1" />
+      <edge id="878" source="department-of-veterans-affairs" target="bcgov" weight="4" />
+      <edge id="879" source="department-of-veterans-affairs" target="cambridgegis" weight="1" />
+      <edge id="880" source="department-of-veterans-affairs" target="ombegov" weight="1" />
+      <edge id="881" source="department-of-veterans-affairs" target="hmrc" weight="1" />
+      <edge id="882" source="department-of-veterans-affairs" target="18F" weight="20" />
+      <edge id="883" source="department-of-veterans-affairs" target="cityofaustin" weight="1" />
+      <edge id="884" source="department-of-veterans-affairs" target="cityofasheville" weight="1" />
+      <edge id="885" source="department-of-veterans-affairs" target="project-open-data" weight="3" />
+      <edge id="886" source="department-of-veterans-affairs" target="sgmap" weight="1" />
+      <edge id="887" source="department-of-veterans-affairs" target="WhiteHouse" weight="4" />
+      <edge id="888" source="department-of-veterans-affairs" target="blue-button" weight="1" />
+      <edge id="889" source="department-of-veterans-affairs" target="USDepartmentofLabor" weight="1" />
+      <edge id="890" source="department-of-veterans-affairs" target="USGS-CIDA" weight="1" />
+      <edge id="891" source="department-of-veterans-affairs" target="CORaleigh" weight="1" />
+      <edge id="892" source="department-of-veterans-affairs" target="cfpb" weight="2" />
+      <edge id="893" source="department-of-veterans-affairs" target="virtual-world-framework" weight="1" />
+      <edge id="894" source="department-of-veterans-affairs" target="BFELoB" weight="1" />
+      <edge id="895" source="usds" target="blue-button" weight="1" />
+      <edge id="896" source="usds" target="18F" weight="10" />
+      <edge id="897" source="usds" target="bcgov" weight="1" />
+      <edge id="898" source="usds" target="cfpb" weight="2" />
+      <edge id="899" source="usds" target="presidential-innovation-fellows" weight="3" />
+      <edge id="900" source="usds" target="FCC" weight="1" />
+      <edge id="901" source="usds" target="project-open-data" weight="5" />
+      <edge id="902" source="usds" target="BFELoB" weight="1" />
+      <edge id="903" source="usds" target="cambridgegis" weight="1" />
+      <edge id="904" source="usds" target="WhiteHouse" weight="3" />
+      <edge id="905" source="usds" target="ombegov" weight="1" />
+      <edge id="906" source="alphagov" target="DFID" weight="3" />
+      <edge id="907" source="alphagov" target="IATI" weight="1" />
+      <edge id="908" source="alphagov" target="AusDTO" weight="2" />
+      <edge id="909" source="alphagov" target="EnvironmentAgency" weight="1" />
+      <edge id="910" source="alphagov" target="LandRegistry-Ops" weight="1" />
+      <edge id="911" source="alphagov" target="LocalGovDigital" weight="1" />
+      <edge id="912" source="alphagov" target="USStateDept" weight="1" />
+      <edge id="913" source="alphagov" target="govCMS" weight="1" />
+      <edge id="914" source="alphagov" target="met-office-lab" weight="64" />
+      <edge id="915" source="alphagov" target="bcgov" weight="1" />
+      <edge id="916" source="alphagov" target="digital-preservation" weight="2" />
+      <edge id="917" source="alphagov" target="Department-for-Work-and-Pensions" weight="3" />
+      <edge id="918" source="alphagov" target="hmrc" weight="11" />
+      <edge id="919" source="alphagov" target="18F" weight="6" />
+      <edge id="920" source="alphagov" target="uscensusbureau" weight="1" />
+      <edge id="921" source="alphagov" target="GOVTNZ" weight="1" />
+      <edge id="922" source="alphagov" target="gds-dead" weight="2" />
+      <edge id="923" source="alphagov" target="datagovau" weight="1" />
+      <edge id="924" source="alphagov" target="LandRegistry" weight="33" />
+      <edge id="925" source="alphagov" target="WhiteHouse" weight="1" />
+      <edge id="926" source="alphagov" target="adsib" weight="1" />
+      <edge id="927" source="agrc" target="sgmap" weight="1" />
+      <edge id="928" source="cityofchattanooga" target="nycdot" weight="1" />
+      <edge id="929" source="cityofchattanooga" target="18F" weight="1" />
+      <edge id="930" source="MetropolitanTransportationCommission" target="psrc" weight="1" />
+      <edge id="931" source="MetropolitanTransportationCommission" target="sfcta" weight="5" />
+      <edge id="932" source="MetropolitanTransportationCommission" target="ngageoint" weight="1" />
+      <edge id="933" source="vilnius" target="viesujupirkimutarnyba" weight="1" />
+      <edge id="934" source="nycdot" target="CityofSanFrancisco" weight="1" />
+      <edge id="935" source="nycdot" target="18F" weight="1" />
+      <edge id="936" source="nycdot" target="Geonovum" weight="1" />
+      <edge id="937" source="gds-dead" target="LandRegistry" weight="2" />
+      <edge id="938" source="dadosgovbr" target="IATI" weight="1" />
+      <edge id="939" source="dadosgovbr" target="govbr" weight="3" />
+      <edge id="940" source="dadosgovbr" target="culturagovbr" weight="2" />
+      <edge id="941" source="dadosgovbr" target="datagovau" weight="1" />
+      <edge id="942" source="dadosgovbr" target="USStateDept" weight="1" />
+      <edge id="943" source="CanterburyRegionalCouncil" target="hmrc" weight="1" />
+      <edge id="944" source="CanterburyRegionalCouncil" target="CORaleigh" weight="1" />
+      <edge id="945" source="CanterburyRegionalCouncil" target="USGS-CIDA" weight="1" />
+      <edge id="946" source="CanterburyRegionalCouncil" target="sgmap" weight="1" />
+      <edge id="947" source="CanterburyRegionalCouncil" target="cityofasheville" weight="1" />
+      <edge id="948" source="CanterburyRegionalCouncil" target="bcgov" weight="1" />
+      <edge id="949" source="CanterburyRegionalCouncil" target="18F" weight="1" />
+      <edge id="950" source="govbr" target="ngageoint" weight="1" />
+      <edge id="951" source="govbr" target="uscensusbureau" weight="1" />
+      <edge id="952" source="govbr" target="ibamacsr" weight="1" />
+      <edge id="953" source="govbr" target="culturagovbr" weight="3" />
+      <edge id="954" source="govbr" target="peacecorps" weight="1" />
+      <edge id="955" source="govbr" target="hmrc" weight="1" />
+      <edge id="956" source="govbr" target="DCgov" weight="1" />
+      <edge id="957" source="govbr" target="18F" weight="2" />
+      <edge id="958" source="govbr" target="USGS-Astrogeology" weight="1" />
+      <edge id="959" source="govbr" target="wet-boew" weight="1" />
+      <edge id="960" source="govbr" target="dstl" weight="1" />
+      <edge id="961" source="govbr" target="sgmap" weight="1" />
+      <edge id="962" source="govbr" target="ngds" weight="1" />
+      <edge id="963" source="govbr" target="HHS" weight="1" />
+      <edge id="964" source="govbr" target="pensandoodireito" weight="1" />
+      <edge id="965" source="govbr" target="GovBrasil" weight="1" />
+      <edge id="966" source="govbr" target="cfpb" weight="1" />
+      <edge id="967" source="govbr" target="SENATICS" weight="1" />
+      <edge id="968" source="govbr" target="JusticaGovBR" weight="1" />
+      <edge id="969" source="culturagovbr" target="HHS" weight="1" />
+      <edge id="970" source="culturagovbr" target="hmrc" weight="1" />
+      <edge id="971" source="culturagovbr" target="dstl" weight="1" />
+      <edge id="972" source="culturagovbr" target="pensandoodireito" weight="1" />
+      <edge id="973" source="culturagovbr" target="18F" weight="1" />
+      <edge id="974" source="culturagovbr" target="gabinetedigital" weight="1" />
+      <edge id="975" source="culturagovbr" target="ngageoint" weight="1" />
+      <edge id="976" source="culturagovbr" target="uscensusbureau" weight="1" />
+      <edge id="977" source="culturagovbr" target="USGS-Astrogeology" weight="1" />
+      <edge id="978" source="culturagovbr" target="sgmap" weight="1" />
+      <edge id="979" source="culturagovbr" target="DCgov" weight="1" />
+      <edge id="980" source="City-of-Bloomington" target="Geonovum" weight="1" />
+      <edge id="981" source="City-of-Bloomington" target="peacecorps" weight="1" />
+      <edge id="982" source="government-services" target="HHS" weight="1" />
+      <edge id="983" source="government-services" target="USG-SCOPE" weight="1" />
+      <edge id="984" source="government-services" target="18F" weight="2" />
+      <edge id="985" source="government-services" target="nhanes" weight="1" />
+      <edge id="986" source="government-services" target="presidential-innovation-fellows" weight="1" />
+      <edge id="987" source="government-services" target="FCC" weight="1" />
+      <edge id="988" source="government-services" target="project-open-data" weight="2" />
+      <edge id="989" source="government-services" target="WhiteHouse" weight="1" />
+      <edge id="990" source="presidential-innovation-fellows" target="Project-Interoperability" weight="1" />
+      <edge id="991" source="presidential-innovation-fellows" target="Chicago" weight="1" />
+      <edge id="992" source="presidential-innovation-fellows" target="FCC" weight="1" />
+      <edge id="993" source="presidential-innovation-fellows" target="bcgov" weight="6" />
+      <edge id="994" source="presidential-innovation-fellows" target="cambridgegis" weight="1" />
+      <edge id="995" source="presidential-innovation-fellows" target="18F" weight="27" />
+      <edge id="996" source="presidential-innovation-fellows" target="uscensusbureau" weight="3" />
+      <edge id="997" source="presidential-innovation-fellows" target="project-open-data" weight="8" />
+      <edge id="998" source="presidential-innovation-fellows" target="WhiteHouse" weight="5" />
+      <edge id="999" source="presidential-innovation-fellows" target="blue-button" weight="3" />
+      <edge id="1000" source="presidential-innovation-fellows" target="USDepartmentofLabor" weight="3" />
+      <edge id="1001" source="presidential-innovation-fellows" target="shareandprotect" weight="1" />
+      <edge id="1002" source="presidential-innovation-fellows" target="cfpb" weight="4" />
+      <edge id="1003" source="presidential-innovation-fellows" target="virtual-world-framework" weight="1" />
+      <edge id="1004" source="presidential-innovation-fellows" target="ombegov" weight="1" />
+      <edge id="1005" source="presidential-innovation-fellows" target="eHawaii" weight="1" />
+      <edge id="1006" source="met-office-lab" target="18F" weight="1" />
+      <edge id="1007" source="met-office-lab" target="adsib" weight="1" />
+      <edge id="1008" source="met-office-lab" target="uscensusbureau" weight="1" />
+      <edge id="1009" source="met-office-lab" target="govCMS" weight="1" />
+      <edge id="1010" source="met-office-lab" target="bcgov" weight="1" />
+      <edge id="1011" source="ca-canada" target="wet-boew" weight="1" />
+      <edge id="1012" source="bcgov" target="DigitalInclusion" weight="3" />
+      <edge id="1013" source="bcgov" target="open-data" weight="1" />
+      <edge id="1014" source="bcgov" target="psrc" weight="1" />
+      <edge id="1015" source="bcgov" target="hmrc" weight="1" />
+      <edge id="1016" source="bcgov" target="18F" weight="23" />
+      <edge id="1017" source="bcgov" target="uscensusbureau" weight="1" />
+      <edge id="1018" source="bcgov" target="wet-boew" weight="1" />
+      <edge id="1019" source="bcgov" target="OpenGovDC" weight="1" />
+      <edge id="1020" source="bcgov" target="fedspendingtransparency" weight="1" />
+      <edge id="1021" source="bcgov" target="project-open-data" weight="3" />
+      <edge id="1022" source="bcgov" target="sgmap" weight="1" />
+      <edge id="1023" source="bcgov" target="WhiteHouse" weight="3" />
+      <edge id="1024" source="bcgov" target="CityofSurrey" weight="1" />
+      <edge id="1025" source="bcgov" target="USDepartmentofLabor" weight="1" />
+      <edge id="1026" source="bcgov" target="USGS-CIDA" weight="1" />
+      <edge id="1027" source="bcgov" target="cityofasheville" weight="1" />
+      <edge id="1028" source="bcgov" target="CORaleigh" weight="1" />
+      <edge id="1029" source="bcgov" target="cfpb" weight="2" />
+      <edge id="1030" source="CSB-IG" target="DDT-INMEGEN" weight="3" />
+      <edge id="1031" source="cityofaustin" target="18F" weight="1" />
+      <edge id="1032" source="cambridgegis" target="18F" weight="1" />
+      <edge id="1033" source="cambridgegis" target="cambridgedata" weight="1" />
+      <edge id="1034" source="cambridgegis" target="cfpb" weight="1" />
+      <edge id="1035" source="cambridgegis" target="FCC" weight="1" />
+      <edge id="1036" source="cambridgegis" target="project-open-data" weight="2" />
+      <edge id="1037" source="cambridgegis" target="WhiteHouse" weight="1" />
+      <edge id="1038" source="cambridgegis" target="ombegov" weight="1" />
+      <edge id="1039" source="CORaleigh" target="hmrc" weight="1" />
+      <edge id="1040" source="CORaleigh" target="USGS-CIDA" weight="1" />
+      <edge id="1041" source="CORaleigh" target="cityofasheville" weight="2" />
+      <edge id="1042" source="CORaleigh" target="sgmap" weight="1" />
+      <edge id="1043" source="CORaleigh" target="18F" weight="1" />
+      <edge id="1044" source="hmrc" target="Department-for-Work-and-Pensions" weight="2" />
+      <edge id="1045" source="hmrc" target="uscensusbureau" weight="1" />
+      <edge id="1046" source="hmrc" target="digital-preservation" weight="1" />
+      <edge id="1047" source="hmrc" target="DCgov" weight="1" />
+      <edge id="1048" source="hmrc" target="18F" weight="2" />
+      <edge id="1049" source="hmrc" target="USGS-Astrogeology" weight="1" />
+      <edge id="1050" source="hmrc" target="cityofasheville" weight="1" />
+      <edge id="1051" source="hmrc" target="dstl" weight="1" />
+      <edge id="1052" source="hmrc" target="LandRegistry" weight="1" />
+      <edge id="1053" source="hmrc" target="sgmap" weight="2" />
+      <edge id="1054" source="hmrc" target="HHS" weight="1" />
+      <edge id="1055" source="hmrc" target="pensandoodireito" weight="1" />
+      <edge id="1056" source="hmrc" target="USGS-CIDA" weight="1" />
+      <edge id="1057" source="hmrc" target="ngageoint" weight="1" />
+      <edge id="1058" source="GeoCanViz" target="wet-boew" weight="1" />
+      <edge id="1059" source="18F" target="portofsandiego" weight="1" />
+      <edge id="1060" source="18F" target="WhiteHouse" weight="21" />
+      <edge id="1061" source="18F" target="dstl" weight="1" />
+      <edge id="1062" source="18F" target="USG-SCOPE" weight="1" />
+      <edge id="1063" source="18F" target="wet-boew" weight="4" />
+      <edge id="1064" source="18F" target="FCC" weight="2" />
+      <edge id="1065" source="18F" target="peacecorps" weight="1" />
+      <edge id="1066" source="18F" target="USGS-Astrogeology" weight="1" />
+      <edge id="1067" source="18F" target="fedspendingtransparency" weight="4" />
+      <edge id="1068" source="18F" target="project-open-data" weight="20" />
+      <edge id="1069" source="18F" target="cleveland-metroparks" weight="1" />
+      <edge id="1070" source="18F" target="sgmap" weight="2" />
+      <edge id="1071" source="18F" target="ngds" weight="1" />
+      <edge id="1072" source="18F" target="DCgov" weight="7" />
+      <edge id="1073" source="18F" target="blue-button" weight="3" />
+      <edge id="1074" source="18F" target="USDepartmentofLabor" weight="6" />
+      <edge id="1075" source="18F" target="USGS-CIDA" weight="1" />
+      <edge id="1076" source="18F" target="ngageoint" weight="3" />
+      <edge id="1077" source="18F" target="shareandprotect" weight="1" />
+      <edge id="1078" source="18F" target="cfpb" weight="30" />
+      <edge id="1079" source="18F" target="BFELoB" weight="1" />
+      <edge id="1080" source="18F" target="Project-Interoperability" weight="2" />
+      <edge id="1081" source="18F" target="OpenGovDC" weight="1" />
+      <edge id="1082" source="18F" target="Chicago" weight="2" />
+      <edge id="1083" source="18F" target="DigitalInclusion" weight="1" />
+      <edge id="1084" source="18F" target="datagovau" weight="1" />
+      <edge id="1085" source="18F" target="atlregional" weight="1" />
+      <edge id="1086" source="18F" target="NASA-Tournament-Lab" weight="1" />
+      <edge id="1087" source="18F" target="sbstusa" weight="1" />
+      <edge id="1088" source="18F" target="ibamacsr" weight="1" />
+      <edge id="1089" source="18F" target="USStateDept" weight="3" />
+      <edge id="1090" source="18F" target="open-data" weight="1" />
+      <edge id="1091" source="18F" target="psrc" weight="1" />
+      <edge id="1092" source="18F" target="ombegov" weight="3" />
+      <edge id="1093" source="18F" target="uscensusbureau" weight="4" />
+      <edge id="1094" source="18F" target="cityofasheville" weight="1" />
+      <edge id="1095" source="18F" target="SENATICS" weight="1" />
+      <edge id="1096" source="18F" target="LandRegistry" weight="1" />
+      <edge id="1097" source="18F" target="HHS" weight="2" />
+      <edge id="1098" source="18F" target="pensandoodireito" weight="1" />
+      <edge id="1099" source="18F" target="VHAINNOVATIONS" weight="1" />
+      <edge id="1100" source="18F" target="virtual-world-framework" weight="1" />
+      <edge id="1101" source="18F" target="nasa" weight="2" />
+      <edge id="1102" source="18F" target="adsib" weight="1" />
+      <edge id="1103" source="osgeouk" target="wet-boew" weight="1" />
+      <edge id="1104" source="SGMAP-AGD" target="sgmap" weight="1" />
+      <edge id="1105" source="SGMAP-AGD" target="DISIC" weight="1" />
+      <edge id="1106" source="USGS-Astrogeology" target="HHS" weight="1" />
+      <edge id="1107" source="USGS-Astrogeology" target="dstl" weight="1" />
+      <edge id="1108" source="USGS-Astrogeology" target="pensandoodireito" weight="1" />
+      <edge id="1109" source="USGS-Astrogeology" target="ngageoint" weight="1" />
+      <edge id="1110" source="USGS-Astrogeology" target="uscensusbureau" weight="1" />
+      <edge id="1111" source="USGS-Astrogeology" target="sgmap" weight="1" />
+      <edge id="1112" source="USGS-Astrogeology" target="DCgov" weight="1" />
+      <edge id="1113" source="peacecorps" target="SENATICS" weight="1" />
+      <edge id="1114" source="peacecorps" target="Geonovum" weight="1" />
+      <edge id="1115" source="peacecorps" target="ibamacsr" weight="1" />
+      <edge id="1116" source="peacecorps" target="wet-boew" weight="3" />
+      <edge id="1117" source="peacecorps" target="ngds" weight="1" />
+      <edge id="1118" source="peacecorps" target="cfpb" weight="1" />
+      <edge id="1119" source="peacecorps" target="project-open-data" weight="1" />
+      <edge id="1120" source="wet-boew" target="USGS-CIDA" weight="1" />
+      <edge id="1121" source="wet-boew" target="geobolivia" weight="2" />
+      <edge id="1122" source="wet-boew" target="atlregional" weight="2" />
+      <edge id="1123" source="wet-boew" target="SENATICS" weight="1" />
+      <edge id="1124" source="wet-boew" target="Geonovum" weight="2" />
+      <edge id="1125" source="wet-boew" target="ibamacsr" weight="1" />
+      <edge id="1126" source="wet-boew" target="open-data" weight="3" />
+      <edge id="1127" source="wet-boew" target="project-open-data" weight="2" />
+      <edge id="1128" source="wet-boew" target="cleveland-metroparks" weight="1" />
+      <edge id="1129" source="wet-boew" target="WhiteHouse" weight="1" />
+      <edge id="1130" source="wet-boew" target="ngds" weight="1" />
+      <edge id="1131" source="wet-boew" target="ngageoint" weight="3" />
+      <edge id="1132" source="wet-boew" target="cfpb" weight="1" />
+      <edge id="1133" source="wet-boew" target="virtual-world-framework" weight="1" />
+      <edge id="1134" source="wet-boew" target="adsib" weight="2" />
+      <edge id="1135" source="SantaClarita" target="Chicago" weight="1" />
+      <edge id="1136" source="fedspendingtransparency" target="cfpb" weight="1" />
+      <edge id="1137" source="GOVTNZ" target="AusDTO" weight="1" />
+      <edge id="1138" source="project-open-data" target="Project-Interoperability" weight="1" />
+      <edge id="1139" source="project-open-data" target="e-gov" weight="1" />
+      <edge id="1140" source="project-open-data" target="datagovau" weight="4" />
+      <edge id="1141" source="project-open-data" target="USG-SCOPE" weight="1" />
+      <edge id="1142" source="project-open-data" target="FCC" weight="4" />
+      <edge id="1143" source="project-open-data" target="USEPA" weight="2" />
+      <edge id="1144" source="project-open-data" target="ombegov" weight="4" />
+      <edge id="1145" source="project-open-data" target="DCgov" weight="2" />
+      <edge id="1146" source="project-open-data" target="uscensusbureau" weight="2" />
+      <edge id="1147" source="project-open-data" target="WhiteHouse" weight="12" />
+      <edge id="1148" source="project-open-data" target="ngds" weight="3" />
+      <edge id="1149" source="project-open-data" target="HHS" weight="2" />
+      <edge id="1150" source="project-open-data" target="blue-button" weight="1" />
+      <edge id="1151" source="project-open-data" target="USPTO" weight="1" />
+      <edge id="1152" source="project-open-data" target="USDepartmentofLabor" weight="3" />
+      <edge id="1153" source="project-open-data" target="cambridgedata" weight="1" />
+      <edge id="1154" source="project-open-data" target="USGS-CIDA" weight="1" />
+      <edge id="1155" source="project-open-data" target="shareandprotect" weight="1" />
+      <edge id="1156" source="project-open-data" target="cfpb" weight="7" />
+      <edge id="1157" source="project-open-data" target="virtual-world-framework" weight="1" />
+      <edge id="1158" source="project-open-data" target="nasa" weight="1" />
+      <edge id="1159" source="cleveland-metroparks" target="atlregional" weight="7" />
+      <edge id="1160" source="cleveland-metroparks" target="ngageoint" weight="1" />
+      <edge id="1161" source="sgmap" target="communaute-cimi" weight="1" />
+      <edge id="1162" source="sgmap" target="uscensusbureau" weight="1" />
+      <edge id="1163" source="sgmap" target="DCgov" weight="1" />
+      <edge id="1164" source="sgmap" target="DISIC" weight="3" />
+      <edge id="1165" source="sgmap" target="cityofasheville" weight="1" />
+      <edge id="1166" source="sgmap" target="dstl" weight="1" />
+      <edge id="1167" source="sgmap" target="HHS" weight="1" />
+      <edge id="1168" source="sgmap" target="pensandoodireito" weight="1" />
+      <edge id="1169" source="sgmap" target="USGS-CIDA" weight="1" />
+      <edge id="1170" source="sgmap" target="ngageoint" weight="1" />
+      <edge id="1171" source="nhanes" target="HHS" weight="1" />
+      <edge id="1172" source="WhiteHouse" target="USG-SCOPE" weight="1" />
+      <edge id="1173" source="WhiteHouse" target="FCC" weight="2" />
+      <edge id="1174" source="WhiteHouse" target="open-data" weight="1" />
+      <edge id="1175" source="WhiteHouse" target="ombegov" weight="4" />
+      <edge id="1176" source="WhiteHouse" target="uscensusbureau" weight="1" />
+      <edge id="1177" source="WhiteHouse" target="nysenate" weight="1" />
+      <edge id="1178" source="WhiteHouse" target="DCgov" weight="2" />
+      <edge id="1179" source="WhiteHouse" target="USDepartmentofLabor" weight="1" />
+      <edge id="1180" source="WhiteHouse" target="cfpb" weight="6" />
+      <edge id="1181" source="WhiteHouse" target="virtual-world-framework" weight="1" />
+      <edge id="1182" source="WhiteHouse" target="BFELoB" weight="3" />
+      <edge id="1183" source="visionworkbench" target="USGS-CIDA" weight="1" />
+      <edge id="1184" source="visionworkbench" target="nasa" weight="1" />
+      <edge id="1185" source="ngds" target="datagovau" weight="2" />
+      <edge id="1186" source="ngds" target="SENATICS" weight="1" />
+      <edge id="1187" source="ngds" target="ibamacsr" weight="1" />
+      <edge id="1188" source="ngds" target="HHS" weight="1" />
+      <edge id="1189" source="ngds" target="cfpb" weight="1" />
+      <edge id="1190" source="NYCComptroller" target="Chicago" weight="1" />
+      <edge id="1191" source="DCgov" target="datagovau" weight="1" />
+      <edge id="1192" source="DCgov" target="uscensusbureau" weight="1" />
+      <edge id="1193" source="DCgov" target="dstl" weight="1" />
+      <edge id="1194" source="DCgov" target="HHS" weight="2" />
+      <edge id="1195" source="DCgov" target="pensandoodireito" weight="1" />
+      <edge id="1196" source="DCgov" target="ngageoint" weight="2" />
+      <edge id="1197" source="DCgov" target="cfpb" weight="7" />
+      <edge id="1198" source="blue-button" target="Chicago" weight="1" />
+      <edge id="1199" source="USDepartmentofLabor" target="virtual-world-framework" weight="1" />
+      <edge id="1200" source="USDepartmentofLabor" target="OpenGovDC" weight="1" />
+      <edge id="1201" source="USDepartmentofLabor" target="cfpb" weight="2" />
+      <edge id="1202" source="RedhawkSDR" target="ozone-development" weight="2" />
+      <edge id="1203" source="USGS-CIDA" target="NOAA-ORR-ERD" weight="1" />
+      <edge id="1204" source="USGS-CIDA" target="USEPA" weight="1" />
+      <edge id="1205" source="USGS-CIDA" target="psrc" weight="1" />
+      <edge id="1206" source="USGS-CIDA" target="cityofasheville" weight="1" />
+      <edge id="1207" source="USGS-CIDA" target="USGS-WiM" weight="1" />
+      <edge id="1208" source="ngageoint" target="Chicago" weight="1" />
+      <edge id="1209" source="ngageoint" target="atlregional" weight="6" />
+      <edge id="1210" source="ngageoint" target="Geonovum" weight="1" />
+      <edge id="1211" source="ngageoint" target="digital-preservation" weight="1" />
+      <edge id="1212" source="ngageoint" target="HHS" weight="1" />
+      <edge id="1213" source="ngageoint" target="uscensusbureau" weight="2" />
+      <edge id="1214" source="ngageoint" target="dstl" weight="1" />
+      <edge id="1215" source="ngageoint" target="pensandoodireito" weight="1" />
+      <edge id="1216" source="ngageoint" target="adsib" weight="1" />
+      <edge id="1217" source="shareandprotect" target="cfpb" weight="1" />
+      <edge id="1218" source="shareandprotect" target="Project-Interoperability" weight="1" />
+      <edge id="1219" source="cfpb" target="Project-Interoperability" weight="1" />
+      <edge id="1220" source="cfpb" target="DigitalInclusion" weight="1" />
+      <edge id="1221" source="cfpb" target="SENATICS" weight="1" />
+      <edge id="1222" source="cfpb" target="ibamacsr" weight="1" />
+      <edge id="1223" source="cfpb" target="FCC" weight="4" />
+      <edge id="1224" source="cfpb" target="ombegov" weight="1" />
+      <edge id="1225" source="cfpb" target="virtual-world-framework" weight="1" />
+      <edge id="1226" source="LLDD" target="rinfo" weight="1" />
+      <edge id="1227" source="LLDD" target="Kungbib" weight="2" />
+      <edge id="1228" source="rinfo" target="Kungbib" weight="1" />
+      <edge id="1229" source="ProvincieGroningen" target="Geonovum" weight="1" />
+      <edge id="1230" source="communaute-cimi" target="DISIC" weight="1" />
+      <edge id="1231" source="JusticaGovBR" target="GovBrasil" weight="1" />
+      <edge id="1232" source="CityofSantaMonica" target="uscensusbureau" weight="1" />
+      <edge id="1233" source="CityofSantaMonica" target="Chicago" weight="1" />
+      <edge id="1234" source="e-gob" target="uygub" weight="1" />
+      <edge id="1235" source="DFID" target="IATI" weight="2" />
+      <edge id="1236" source="DFID" target="LandRegistry" weight="2" />
+      <edge id="1237" source="Chicago" target="sfcta" weight="1" />
+      <edge id="1238" source="Chicago" target="psrc" weight="1" />
+      <edge id="1239" source="FCC" target="USG-SCOPE" weight="1" />
+      <edge id="1240" source="FCC" target="USPTO" weight="1" />
+      <edge id="1241" source="FCC" target="ombegov" weight="1" />
+      <edge id="1242" source="Department-for-Work-and-Pensions" target="LandRegistry" weight="2" />
+      <edge id="1243" source="Department-for-Work-and-Pensions" target="digital-preservation" weight="1" />
+      <edge id="1244" source="geobolivia" target="adsib" weight="1" />
+      <edge id="1245" source="datagovau" target="HHS" weight="3" />
+      <edge id="1246" source="datagovau" target="IATI" weight="2" />
+      <edge id="1247" source="datagovau" target="AusDTO" weight="1" />
+      <edge id="1248" source="datagovau" target="USStateDept" weight="1" />
+      <edge id="1249" source="atlregional" target="adsib" weight="1" />
+      <edge id="1250" source="sunpy" target="psrc" weight="1" />
+      <edge id="1251" source="AusDTO" target="govCMS" weight="3" />
+      <edge id="1252" source="LandRegistry-Ops" target="LandRegistry" weight="8" />
+      <edge id="1253" source="ibamacsr" target="GovBrasil" weight="1" />
+      <edge id="1254" source="ibamacsr" target="SENATICS" weight="1" />
+      <edge id="1255" source="sfcta" target="psrc" weight="2" />
+      <edge id="1256" source="USStateDept" target="IATI" weight="1" />
+      <edge id="1257" source="EnvironmentAgency" target="warwickshire" weight="1" />
+      <edge id="1258" source="psrc" target="NOAA-ORR-ERD" weight="1" />
+      <edge id="1259" source="ombegov" target="uscensusbureau" weight="1" />
+      <edge id="1260" source="mecpy" target="SENATICS" weight="1" />
+      <edge id="1261" source="uscensusbureau" target="HHS" weight="1" />
+      <edge id="1262" source="uscensusbureau" target="dstl" weight="1" />
+      <edge id="1263" source="uscensusbureau" target="pensandoodireito" weight="1" />
+      <edge id="1264" source="HHSDigitalMediaAPIPlatform" target="HHS" weight="1" />
+      <edge id="1265" source="HHS" target="dstl" weight="1" />
+      <edge id="1266" source="HHS" target="pensandoodireito" weight="1" />
+      <edge id="1267" source="dstl" target="pensandoodireito" weight="1" />
+      <edge id="1268" source="ga-m3dv" target="GeoscienceAustralia" weight="2" />
+      <edge id="1269" source="virtual-world-framework" target="adsib" weight="1" />
+    </edges>
+  </graph>
+</gexf>

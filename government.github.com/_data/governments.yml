@@ -1,0 +1,715 @@
+# Official government institutions, listed under their country or level of government
+
+Argentina:
+  - argob
+  - cifasis
+  - conectados-ar
+  - gcba
+  - inti-cmnb
+  - municipioriogrande
+
+Australia:
+  - actesa
+  - actgov
+  - agnsw
+  - ausdto
+  - australianantarcticdatacentre
+  - bom-radar
+  - datagovau
+  - dpipwe
+  - envris
+  - ga-m3dv
+  - gccgisteam
+  - GeoscienceAustralia
+  - govcms
+  - Healthway
+  - hiscom
+  - innovationgovau
+  - Landgate
+  - mcma
+  - museumvictoria
+  - nla
+  - nmalabs
+  - NSWPlanning
+  - NSWRFS
+  - parksandwildlife
+  - qld-gov-au
+  - srnsw
+  - SSCwebdev
+  - SunshineCoastCouncil
+  - treasury-aus
+  - victoriangovernment
+  - wamuseum
+
+Belgium:
+  - belgianpolice
+  - Fedict
+  - onroerenderfgoed
+
+Bolivia:
+  - adsib
+  - geobolivia
+
+Brazil:
+  - bacendeinf
+  - camaradosdeputadosoficial
+  - cislgov
+  - culturagovbr
+  - dadosgovbr
+  - dataprev
+  - fateczonaleste
+  - gabinetedigital
+  - govbr
+  - GovBrasil
+  - ibamacsr
+  - InstitutoBenjaminConstant
+  - interlegis
+  - justicagovbr
+  - labhackercd
+  - lexml
+  - pensandoodireito
+  - plonegovbr
+  - pr-snas
+  - PrefeituraParnaiba
+  - prefeiturasp
+  - PROCERGS
+  - prodest
+  - secom-tocantins
+  - secultce
+  - SerraWeb
+  - tisorocaba
+  - tre-pa
+  - wpgovbr
+
+Bulgaria:
+  - govbg
+  - governmentbg
+
+Canada:
+  - AAFC-MBB
+  - abgov
+  - bcdevexchange
+  - BCGov
+  - ca-canada
+  - CIHR
+  - cityofgreatersudbury
+  - cityofottawa
+  - cityofsurrey
+  - cngo
+  - electionsquebec
+  - GeoCanViz
+  - GNWT
+  - goc
+  - HIFIS
+  - infra-geo-ouverte
+  - MC-MBO-WebPublishingTeam
+  - nrc-cnrc
+  - NRCan
+  - nsgov
+  - open-data
+  - phac-nml
+  - pwgsc
+  - RAMP-PCAR
+  - RDOQ
+  - ServiceCanada
+  - TBS-EACPD
+  - thecityofcalgary
+  - VilledeMontreal
+  - wet-boew
+
+Catalonia:
+  - gencat
+
+Chile:
+  - datal-org
+  - e-gob
+
+Colombia:
+  - AltaConsejeriaTIC
+  - evaluon
+  - idu-bogota
+
+Denmark:
+  - skat
+
+Ecuador:
+  - inamhi
+  - innovacionsnap
+  - senescyt
+
+Egypt:
+  - informationtechnologyinstitute
+
+Estonia:
+  - e-gov
+  - kinnisvara
+  - MKM-ITAO
+  - open-eid
+  - opendata-ee
+  - vvk-ehk
+
+European Union:
+  - europeana
+
+Finland:
+  - City-of-Helsinki
+  - finnishtransportagency
+  - helsinki-city-library
+  - HSLdevcom
+  - Lounaispaikka
+  - lukefi
+  - NatLibFi
+  - nlsfi
+
+France:
+  - afimb
+  - ANSSI-FR
+  - ApieFrance
+  - communaute-cimi
+  - DGFiP
+  - diplomatiegouvfr
+  - disic
+  - erasme
+  - etalab
+  - nanterre
+  - polewebmaedi
+  - sgmap
+  - sgmap-agd
+
+Germany:
+  - gbv
+  - hbz
+  - isyfact
+  - lobid
+
+Guatemala:
+  - minfingt
+
+Hong Kong:
+  - datagovhk
+
+India:
+  - itschool
+
+International:
+  - IATI
+  - ogpl
+
+Isle of Man:
+  - Isle-Of-Man-Government
+
+Israel:
+  - Digital-Israel
+
+Italy:
+  - ComuneBologna
+  - Formez
+  - PloneGov-IT
+  - RegioneER
+
+Japan:
+  - city-of-kobe
+  - codefornamie
+  - gsi-cyberjapan
+  - nhohq
+  - nims-library
+  - wakayama-pref-org
+
+Latvia:
+  - CSBLatvia
+
+Lithuania:
+  - viesujupirkimutarnyba
+  - vilnius
+
+Malaysia:
+  - pmo2
+
+Mexico:
+  - CSB-IG
+  - DDT-INMEGEN
+  - inmegen
+  - profeco
+  - redoaxacadetodos
+
+New Zealand:
+  - CanterburyRegionalCouncil
+  - DigitalNZ
+  - ElectricityAuthority
+  - GOVTNZ
+  - linz
+  - localgovernment
+  - nz-mbie
+  - NZWellingtonCityCouncil
+  - opcnz
+  - R9BetterAPIs
+  - te-papa
+
+Norway:
+  - difi
+  - dss-web
+  - kartverket
+  - KRD-KOMM-VL
+  - metno
+  - navikt
+  - vegvesen
+
+Panama:
+  - IFARHU
+  - miambiente
+
+Paraguay:
+  - mecpy
+  - SENATICS
+
+Peru:
+  - imarpe
+
+Philippines:
+  - govph
+  - igovphil
+
+Poland:
+  - coi-gov-pl
+
+Romania:
+  - govro
+
+Saudi Arabia:
+  - SAS-NCDC
+
+Singapore:
+  - idagds
+  - moexmen
+
+South Africa:
+  - eddZA
+
+Spain:
+  - AyuntamientoMadrid
+  - ctt-gob-es
+
+Sweden:
+  - domstol
+  - gbif-sweden
+  - kungbib
+  - libris
+  - lldd
+  - malmostad
+  - mtmse
+  - riksarkivet
+  - rinfo
+  - statens-maritima-museer
+  - swedishpensionsagency
+  - The-Municipality-of-Staffanstorp
+
+Switzerland:
+  - alv-ch
+  - alv-ch-ansible-roles
+  - BFS-SHS-MSAS
+  - dsi-vd
+  - FNSKtZH
+  - gisktzh
+  - ogdch
+  - sitn
+  - swiss-gov
+
+The Netherlands:
+  - dataoverheid
+  - GemeenteEde
+  - gemeentemuseum
+  - Geonovum
+  - IenS-Velsen
+  - MinELenI
+  - Pleio
+  - provinciegroningen
+  - provincieNH
+  - rijksoverheid
+  - StichtingHergebruikOverheid
+  - TweedeKamer
+  - zaanstad
+
+U.K. Central:
+  - alphagov
+  - BEACmodel
+  - cabinetoffice
+  - communitiesuk
+  - companieshouse
+  - datagovuk
+  - decc
+  - defra
+  - Department-for-Work-and-Pensions
+  - dfid
+  - digital-preservation
+  - directgov-innovate
+  - dstl
+  - dvla
+  - EnvHack2
+  - EnvironmentAgency
+  - gds-attic
+  - gds-dead
+  - gds-operations
+  - GovernmentCommunicationsHeadquarters
+  - guidance-guarantee-programme
+  - hmrc
+  - insolvencyservice
+  - intellectual-property-office
+  - IQuOD
+  - jncc
+  - JNCC-UK
+  - jules-lsm
+  - LandRegistry
+  - landregistry-ops
+  - lgss
+  - LocalGovDigital
+  - met-office-lab
+  - MetOffice
+  - MetOfficeSpaceApps
+  - metomi
+  - ministryofjustice
+  - naouk
+  - nationalarchives
+  - OfqualGovUK
+  - ONSdigital
+  - openglasgow
+  - osgeouk
+  - scottishgovernment
+  - ukforeignoffice
+  - UKHomeOffice
+  - UKLocation
+  - uktradeinvestment
+
+U.K. Councils:
+  - BarnsleyCouncil
+  - BathnesDevelopment
+  - BracknellForestCouncil
+  - brighton-hove-gov-uk
+  - BristolCityCouncil
+  - CamdenCouncil
+  - cityofyork
+  - devoncc
+  - DevonCountyCouncil
+  - DundeeCityCouncil
+  - east-sussex-county-council
+  - edinburghcouncil
+  - gmfrs
+  - GuildfordBC
+  - HfdsCouncil
+  - kentcc
+  - LambethCouncil
+  - lichfield-district-council
+  - LutonCouncil
+  - RotherDC
+  - thehighlandcouncil
+  - TraffordCouncil
+  - warwickshire
+  - wealden
+  - west-berkshire-council
+
+U.S. City:
+  - austincodeit
+  - Baltimore-City-EGIS
+  - berkeleypubliclibrary
+  - BostonRedevelop
+  - cambridgedata
+  - cambridgegis
+  - chicago
+  - city-of-bellingham
+  - city-of-bloomington
+  - City-of-Raleigh-Public-Utilities
+  - cityofasheville
+  - CityOfAuburnAL
+  - cityofaustin
+  - cityofboise
+  - CityOfBoston
+  - cityofboulder
+  - cityofburlington
+  - cityofchattanooga
+  - cityoffortworth
+  - CityOfGreeleyCo
+  - cityofnewyork
+  - CityOfPhiladelphia
+  - cityofportland
+  - CityofReno
+  - CityofSanFrancisco
+  - CityofSantaMonica
+  - cityofsomerville
+  - cityofvernonia
+  - CityOfVirginiaBeach
+  - cityofwestsacramento
+  - CityofYakima
+  - cno-opa
+  - CORaleigh
+  - CUMTD
+  - datala
+  - dataseattlegov
+  - DCCouncil
+  - DCgov
+  - DenverDev
+  - digitalinclusion
+  - dotnyc
+  - egovpdx
+  - geospatialDENVER
+  - Honolulu
+  - kcmo
+  - lfucg
+  - longbeachinnovationteam
+  - LouisvilleMetro
+  - mnhrc
+  - monum
+  - NYCComptroller
+  - nycdot
+  - OpenGovDC
+  - p2g
+  - pdxgis
+  - PierceCountyWA
+  - ProBonoDC
+  - ridertd
+  - SantaClarita
+  - sfbart
+  - SiloamSprings
+  - southbend
+  - TownOfBrookline
+  - tucsonaz
+
+U.S. County:
+  - anoka-script-team
+  - ArlingtonCounty
+  - baltimorecounty
+  - bouldercounty
+  - CanyonCounty
+  - CarverCounty
+  - donaanacounty
+  - fairfieldcountyit
+  - fpdcc
+  - HarrisCountyFOA
+  - HennepinCountyPublicDefender
+  - MCLD
+  - miamidade
+  - pottcountyit
+  - saccounty
+  - sfcta
+  - SJCGIS
+  - slo-county-planning-and-building
+  - slugis
+
+U.S. Federal:
+  - 18f
+  - adl-aicc
+  - adlnet
+  - afrl
+  - arcticlcc
+  - BBGInnovate
+  - bfelob
+  - blue-button
+  - businessusa
+  - CA-CST-Library
+  - CA-CST-SII
+  - ccmc
+  - cfpb
+  - cmsgov
+  - commercedataservice
+  - commercegov
+  - defense-cyber-crime-center
+  - demand-driven-open-data
+  - department-of-veterans-affairs
+  - didsr
+  - EEOC
+  - energyapps
+  - erdc-cm
+  - eregs
+  - fcc
+  - FCCdev
+  - fda
+  - Federal-Aviation-Administration
+  - federaltradecommission
+  - fedspendingtransparency
+  - globegit
+  - gopleader
+  - government-services
+  - GreatSmokyMountainsNationalPark
+  - gsa
+  - GSA-Archive
+  - hhs
+  - HHSDigitalMediaAPIPlatform
+  - HHSIDEAlab
+  - historyatstate
+  - IIP-Design
+  - IMDProjects
+  - imls
+  - informaticslab
+  - Innovation-Toolkit
+  - internationaltradeadministration
+  - ioos
+  - IRSgov
+  - keplergo
+  - libraryofcongress
+  - M-O-S-E-S
+  - mcc-gov
+  - missioncommand
+  - nasa
+  - nasa-develop
+  - nasa-gibs
+  - NASA-rdt
+  - nasa-tournament-lab
+  - nasaworldwind
+  - NationalGuard
+  - nationalparkservice
+  - NCRN
+  - NeoGeographyToolkit
+  - nesii
+  - ngds
+  - nhanes
+  - nidcd
+  - NIEM
+  - NMB-Dev
+  - NMML
+  - noaa-gfdl
+  - noaa-ncei-stp
+  - noaa-nws-cpc
+  - NOAA-ORR-ERD
+  - ntia
+  - ombegov
+  - Open-Sat
+  - opengovplatform
+  - ozone-development
+  - ozoneplatform
+  - peacecorps
+  - petsc
+  - presidential-innovation-fellows
+  - project-open-data
+  - radiofreeasia
+  - redhawksdr
+  - regulationsgov
+  - sbstusa
+  - SelectUSA
+  - SERVIR
+  - state-hiu
+  - sunpy
+  - usagov
+  - usaid
+  - usajobs
+  - usasearch
+  - usbr
+  - uscensusbureau
+  - uscis
+  - usda
+  - usda-ars-agil
+  - USDA-ERS
+  - usda-vs
+  - usdepartmentoflabor
+  - USDeptVeteransAffairs
+  - usds
+  - usepa
+  - USFWS
+  - usg-scope
+  - USGCRP
+  - usgpo
+  - usgs
+  - USGS-Astrogeology
+  - USGS-CIDA
+  - usgs-cmg
+  - usgs-eros
+  - USGS-OWI
+  - USGS-R
+  - USGS-WiM
+  - usindianaffairs
+  - usinterior
+  - usnationalarchives
+  - USPS
+  - USPTO
+  - usstatedept
+  - VHAINNOVATIONS
+  - virtual-world-framework
+  - visionworkbench
+  - WFMRDA
+  - whitehouse
+
+U.S. Military and Intelligence:
+  - afseo
+  - erdc-itl
+  - iadgov
+  - info-sharing-environment
+  - NationalSecurityAgency
+  - ngageoint
+  - project-interoperability
+  - screamlab
+  - shareandprotect
+  - SIMP
+  - usarmyresearchlab
+
+U.S. Special District:
+  - atlregional
+  - AZMAG
+  - baaqmd
+  - cleveland-metroparks
+  - CMAP-REPOS
+  - commonwealth-of-puerto-rico
+  - MetropolitanCouncil
+  - MetropolitanTransportationCommission
+  - portofsandiego
+  - psrc
+
+U.S. States:
+  - agrc
+  - agrc-widgets
+  - azgs
+  - calsimcallite
+  - ccap
+  - chhsopendata
+  - coloradodemography
+  - CTOpenData
+  - DCGovWeb
+  - eHawaii
+  - FGS-FloridaGeologicalSurvey
+  - gocodecolorado
+  - IDAHO-DOC-NCOMS
+  - idahofishgame
+  - investmentboard
+  - LADCO
+  - LibraryofVA
+  - massgov
+  - MFWP-GIS
+  - mn-script-team
+  - nebraskamap
+  - nelegislature
+  - NJOGIS
+  - njstatelibrary
+  - ny
+  - nys-its
+  - nysenate
+  - oimt
+  - okcareertech
+  - oregonopendata
+  - ORMetro
+  - scdhhs
+  - scgeology
+  - SLNC-DIMP
+  - State-of-Arizona
+  - tndidd
+  - TNRIS
+  - twdb
+  - TxDOT
+  - UtahForestryFireStateLands
+  - VDGIF
+  - Virginia-House-of-Delegates
+  - vtrans
+  - vtrans-rail
+  - wadoh
+  - WisconsinDPI
+  - wsdot
+  - WSDOT-GIS
+
+U.S. Tribal Nations:
+  - coquille-indian-tribe
+  - osage-nation
+
+Ukraine:
+  - openprocurement
+
+Uruguay:
+  - uygub
+
+Venezuela:
+  - CanaimaGNULinux
+  - suscerte
