@@ -85,7 +85,7 @@ def check_rate_limit(data):
     remaining = int(data._headers['x-ratelimit-remaining'])
     if remaining < 150:
         reset_time = int(data._headers['x-ratelimit-reset'])
-        delay = reset_time - time.time()
+        delay = abs(reset_time - time.time())
         time.sleep(delay)
 
 
@@ -130,7 +130,7 @@ def upsert_repositories(o_data):
         repository = r_formatter(r_item)
         source_login = repository['source_owner_login']
         if source_login:
-            repository['source_civic'] = source_login.lower() in organizations_civic            
+            repository['source_civic'] = source_login.lower() in organizations_civic
             repository['source_government'] = source_login.lower() in organizations_government
         else:
             repository['source_government'] = True
@@ -207,7 +207,7 @@ if __name__ == "__main__":
     with open('government.github.com/_data/governments.yml') as infile:
         _data = yaml.load(infile)
     data = reshape_data(_data)
-    organizations_government = set([organization['entity'].lower() for organization in data]) 
+    organizations_government = set([organization['entity'].lower() for organization in data])
 
     with open('government.github.com/_data/civic_hackers.yml') as infile:
         _data_civic = yaml.load(infile)
